@@ -118,11 +118,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1536567050843">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1536572162156">
+        <mark key="[" line="11" column="79" />
+        <mark key="]" line="11" column="84" />
+        <mark key="^" line="11" column="84" />
+        <mark key="." line="11" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
@@ -1260,7 +1260,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>, False, False</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1275,13 +1275,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JfbmFtZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBQcmVjaXNpb24xOiAxIC8gMSA9IDEKIyBSZWNhbGwxOiAgICAxIC8gMSA9IDEK</text>
+      <register name="0" type="4">
+        <text>, False, False</text>
       </register>
       <register name="1" type="4">
         <text>{
