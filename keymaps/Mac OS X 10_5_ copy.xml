@@ -409,6 +409,9 @@
   <action id="VimChangeNumberInc">
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="VimInsertExitMode">
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
   <action id="VimPluginToggle" />
   <action id="VimRedo">
     <keyboard-shortcut first-keystroke="ctrl r" />
