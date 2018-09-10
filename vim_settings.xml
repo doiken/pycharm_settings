@@ -118,11 +118,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1536559300828">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1536567050843">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
@@ -542,12 +542,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1536562552077">
+      <file name="/code.py" timestamp="1536567367332">
         <mark key="'" line="23" column="29" />
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="13" column="0" />
+        <mark key="]" line="37" column="20" />
+        <mark key="^" line="37" column="20" />
+        <mark key="." line="37" column="20" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -1259,8 +1259,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogbW9kZWxfc2l6ZSBoZXJlCg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1275,13 +1275,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>job_name</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JfbmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogbW9kZWxfc2l6ZSBoZXJlCg==</text>
+        <text encoding="base64">IyBQcmVjaXNpb24xOiAxIC8gMSA9IDEKIyBSZWNhbGwxOiAgICAxIC8gMSA9IDEK</text>
       </register>
       <register name="1" type="4">
         <text>{
