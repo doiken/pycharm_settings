@@ -348,7 +348,7 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="ShowPopupMenu">
-    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="c" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
@@ -408,9 +408,6 @@
   </action>
   <action id="VimChangeNumberInc">
     <keyboard-shortcut first-keystroke="meta left" />
-  </action>
-  <action id="VimInsertExitMode">
-    <keyboard-shortcut first-keystroke="escape" />
   </action>
   <action id="VimPluginToggle" />
   <action id="VimRedo">
