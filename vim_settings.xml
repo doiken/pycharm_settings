@@ -127,6 +127,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1536635500660" />
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Data/MessagePack/PP.pm" timestamp="1531100137848">
         <mark key="'" line="173" column="8" />
         <mark key="[" line="166" column="1" />
@@ -855,6 +856,9 @@
         <mark key="^" line="52" column="22" />
         <mark key="." line="72" column="27" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/functools.pyi" timestamp="1536635497299">
+        <mark key="'" line="50" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs2/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/SparkAppLike.scala" timestamp="1518765945758">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="24" />
@@ -1148,7 +1152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="41" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="126" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="249" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="156" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
@@ -1248,6 +1251,7 @@
       <jump line="15" column="75" filename="/code.py" />
       <jump line="16" column="11" filename="/code.py" />
       <jump line="22" column="29" filename="/code.py" />
+      <jump line="50" column="18" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/functools.pyi" />
     </jumps>
     <registers>
       <register name="a" type="4">
