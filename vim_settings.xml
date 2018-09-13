@@ -130,12 +130,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1536803710505">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="42" column="10" />
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1536805741582">
+        <mark key="'" line="109" column="4" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="8" />
+        <mark key="." line="98" column="8" />
+        <mark key="^" line="98" column="26" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Data/MessagePack/PP.pm" timestamp="1531100137848">
         <mark key="'" line="173" column="8" />
@@ -547,12 +547,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1536802953504">
-        <mark key="'" line="12" column="54" />
-        <mark key="[" line="20" column="99" />
-        <mark key="]" line="20" column="96" />
-        <mark key="." line="20" column="96" />
-        <mark key="^" line="20" column="96" />
+      <file name="/code.py" timestamp="1536805751620">
+        <mark key="'" line="29" column="54" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="35" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -1190,9 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/bucket141.t" />
-      <jump line="73" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/bucket141.t" />
       <jump line="100" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
       <jump line="116" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
       <jump line="132" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
@@ -1290,6 +1287,9 @@
       <jump line="157" column="37" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="83" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="113" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="103" column="13" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="108" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1302,7 +1302,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>23</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1317,16 +1317,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>23</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNRVRSSUNfS0VZXD4=</text>
+        <text encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHsnMm5kZnRybGEnOiAnMC4wMTI4OTYxMjU3NTcwJ30sCg==</text>
+      <register name="0" type="4">
+        <text>TrainingJobName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIF9fbGlzdF9qb2JzKGJhc2Vfam9iX25hbWUpOgogICAgam9icyA9IHNlcShib3RvMy5jbGllbnQoJ3NhZ2VtYWtlcicpLmxpc3RfdHJhaW5pbmdfam9icygK</text>
+        <text encoding="base64">ICAgIFN0YXR1c0VxdWFscz0nQ29tcGxldGVkJywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1347,40 +1347,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICcybmRmdHJsYSc6ICcwLjA0Mjg5NjEyNTc1NzAnLAogICAgJzJuZGZ0cmxiJzogJzAuNzYzNDQzNjg4NDkxNScsCiAgICAnMm5kZnRybGwxJzogJzAuMTI0NTk1Njc3MzMzNScsCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihqb2JzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAubWFwKF9fZXh0cmFjdF9maWVsZCkgXAo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoam9iX2RmKQo=</text>
+        <text encoding="base64">ICAgICAgICAubWFwKGxhbWJkYSBqOiBib3RvMy5jbGllbnQoJ3NhZ2VtYWtlcicpLmRlc2NyaWJlX3RyYWluaW5nX2pvYihUcmFpbmluZ0pvYk5hbWU9alsnVHJhaW5pbmdKb2JOYW1lJ10pKSBcCiAgICAgICAgLm1hcChfX2V4dHJhY3RfZmllbGQpIFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoam9iX2RmLnNvcnRfdmFsdWVzKGJ5PVsiYXVQUiJdLCBhc2NlbmRpbmc9RmFsc2UpLmhlYWQoMSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGpvYikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoam9iX2RmKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGJhc2Vfam9iX25hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpvYl9kZikK</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWZpeCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1ldHJpY3NfZGYpCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KG91dHB1dF9zaXplX2RmKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHRyYWNlYmFjay5mb3JtYXRfdGIoZS5fX3RyYWNlYmFja19fKSkK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNRVRSSUNfS0VZXD4=</last-search>
+      <last-search encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNRVRSSUNfS0VZXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1418,7 +1418,6 @@
         <entry encoding="base64">XDxpbnB1dHNcPg==</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
-        <entry encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</entry>
         <entry encoding="base64">XDxiYXNlX2pvYl9uYW1lXD4=</entry>
         <entry encoding="base64">XDxleHBfbmFtZVw+</entry>
         <entry encoding="base64">XDxlc3RpbWF0b3JcPg==</entry>
@@ -1432,6 +1431,8 @@
         <entry encoding="base64">XDxqb2JzXD4=</entry>
         <entry encoding="base64">XDxsb2dzXD4=</entry>
         <entry encoding="base64">XDxNRVRSSUNfS0VZXD4=</entry>
+        <entry encoding="base64">XDxfX2V4dHJhY3Rfam9iX2lkX2Zyb21fczNfcGF0aFw+</entry>
+        <entry encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
