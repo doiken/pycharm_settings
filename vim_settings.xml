@@ -130,12 +130,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1536805741582">
-        <mark key="'" line="109" column="4" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="8" />
-        <mark key="." line="98" column="8" />
-        <mark key="^" line="98" column="26" />
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1536810575010">
+        <mark key="'" line="42" column="13" />
+        <mark key="[" line="107" column="28" />
+        <mark key="]" line="107" column="40" />
+        <mark key="." line="107" column="40" />
+        <mark key="^" line="107" column="40" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Data/MessagePack/PP.pm" timestamp="1531100137848">
         <mark key="'" line="173" column="8" />
@@ -547,12 +547,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1536805751620">
-        <mark key="'" line="29" column="54" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="35" />
-        <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="35" />
+      <file name="/code.py" timestamp="1536810740725">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="51" />
+        <mark key="^" line="16" column="51" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -830,8 +830,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1536802777016">
-        <mark key="'" line="157" column="37" />
+      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1536808555809">
+        <mark key="'" line="180" column="12" />
         <mark key="[" line="489" column="20" />
         <mark key="]" line="489" column="34" />
       </file>
@@ -1190,10 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
-      <jump line="116" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
-      <jump line="132" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
-      <jump line="148" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
       <jump line="164" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
       <jump line="109" column="58" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/bucket141.t" />
       <jump line="123" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/bucket141.t" />
@@ -1233,7 +1229,6 @@
       <jump line="142" column="17" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="102" column="13" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="28" column="13" filename="/code.py" />
-      <jump line="7" column="8" filename="/code.py" />
       <jump line="21" column="8" filename="/code.py" />
       <jump line="282" column="33" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
       <jump line="279" column="8" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
@@ -1284,12 +1279,17 @@
       <jump line="51" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="109" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="60" column="34" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="157" column="37" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="83" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="113" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="103" column="13" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="108" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="7" column="0" filename="/code.py" />
+      <jump line="157" column="26" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
+      <jump line="180" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
+      <jump line="95" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="53" column="6" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="42" column="13" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1302,7 +1302,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>23</text>
+        <text>RUE</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1317,16 +1317,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>23</text>
+        <text>RUE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</text>
+        <text encoding="base64">XDxfX2xpc3Rfam9ic1w+</text>
       </register>
       <register name="0" type="4">
-        <text>TrainingJobName</text>
+        <text>job not found</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0YXR1c0VxdWFscz0nQ29tcGxldGVkJywK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaW4nKQogICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1347,40 +1347,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihqb2JzKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBlICE9ICdqb2Igbm90IGZvdW5kJzoKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKF9fZXh0cmFjdF9maWVsZCkgXAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKGxhbWJkYSBqOiBib3RvMy5jbGllbnQoJ3NhZ2VtYWtlcicpLmRlc2NyaWJlX3RyYWluaW5nX2pvYihUcmFpbmluZ0pvYk5hbWU9alsnVHJhaW5pbmdKb2JOYW1lJ10pKSBcCiAgICAgICAgLm1hcChfX2V4dHJhY3RfZmllbGQpIFwK</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBkZWJ1Zwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpvYikK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb246Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJhc2Vfam9iX25hbWUpCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb246Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWZpeCkK</text>
+        <text encoding="base64">ICAgIHsnMm5kZnRybGEnOiAnMC4xMDAwMzknLCAnMm5kZnRybGInOiAnMC45NjM0NDM2ODg0OTE1Jyx9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgIHsnMm5kZnRybGEnOiAnMC4xMDAwMzknLCAnMm5kZnRybGInOiAnMC45MTM0NDM2ODg0OTE1Jyx9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KHRyYWNlYmFjay5mb3JtYXRfdGIoZS5fX3RyYWNlYmFja19fKSkK</text>
+        <text encoding="base64">ICAgIHsnMm5kZnRybGEnOiAnMC4xMDAwMzknLCAnMm5kZnRybGInOiAnMC44NjM0NDM2ODg0OTE1Jyx9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</last-search>
+      <last-search encoding="base64">XDxfX2xpc3Rfam9ic1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfX2xpc3Rfam9ic1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1400,7 +1400,6 @@
         <entry encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</entry>
         <entry encoding="base64">XDxmbVw+</entry>
         <entry encoding="base64">XDxnZXRfbWV0cmljc1w+</entry>
-        <entry encoding="base64">XDxqb2JfZGZcPg==</entry>
         <entry encoding="base64">XDxwb3N0X3NhdmVfaG9va1w+</entry>
         <entry encoding="base64">XDxGaWxlQ29udGVudHNNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxqb2JuYW1lXD4=</entry>
@@ -1429,10 +1428,14 @@
         <entry encoding="base64">XDxteWZ1bmNcPg==</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxqb2JzXD4=</entry>
-        <entry encoding="base64">XDxsb2dzXD4=</entry>
         <entry encoding="base64">XDxNRVRSSUNfS0VZXD4=</entry>
         <entry encoding="base64">XDxfX2V4dHJhY3Rfam9iX2lkX2Zyb21fczNfcGF0aFw+</entry>
         <entry encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</entry>
+        <entry encoding="base64">XDxoX3BhcmFtc1w+</entry>
+        <entry encoding="base64">XDx3YWl0XD4=</entry>
+        <entry encoding="base64">XDxsb2dzXD4=</entry>
+        <entry encoding="base64">XDxqb2JfZGZcPg==</entry>
+        <entry encoding="base64">XDxfX2xpc3Rfam9ic1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
