@@ -550,12 +550,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1537244546084">
-        <mark key="'" line="116" column="19" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
-        <mark key="^" line="8" column="34" />
+      <file name="/code.py" timestamp="1537248280399">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -722,10 +722,10 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" timestamp="1537240085619">
+      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" timestamp="1537247675795">
         <mark key="'" line="1027" column="61" />
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="20" />
+        <mark key="[" line="797" column="47" />
+        <mark key="]" line="797" column="55" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fout/lib/FOut/Bid/Context/Deal.pm" timestamp="1512826857194">
         <mark key="[" line="6" column="0" />
@@ -840,7 +840,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1537239742093">
+      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1537247645313">
         <mark key="'" line="104" column="13" />
         <mark key="[" line="417" column="0" />
         <mark key="]" line="417" column="73" />
@@ -918,6 +918,13 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/AppLInterestV2.pm" timestamp="1529307489565">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" timestamp="1537247340793">
+        <mark key="'" line="9203" column="3" />
+        <mark key="[" line="8283" column="72" />
+        <mark key="]" line="8283" column="8" />
+        <mark key="^" line="8283" column="8" />
+        <mark key="." line="8283" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" timestamp="1528868587221">
         <mark key="'" line="113" column="24" />
@@ -1131,11 +1138,11 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1537245628477">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1537247370704">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_line.t" timestamp="1522144491196">
         <mark key="[" line="131" column="34" />
@@ -1200,20 +1207,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="708" column="3" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/.jupyter/jupyter_notebook_config.py" />
-      <jump line="765" column="2" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/.jupyter/jupyter_notebook_config.py" />
-      <jump line="63" column="95" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="20" column="16" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="21" column="23" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="65" column="20" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="429" column="8" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="428" column="41" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="430" column="17" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="134" column="36" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="142" column="17" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="102" column="13" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="28" column="13" filename="/code.py" />
-      <jump line="21" column="8" filename="/code.py" />
       <jump line="282" column="33" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
       <jump line="279" column="8" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
       <jump line="327" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
@@ -1300,6 +1296,17 @@
       <jump line="27" column="4" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/reshape/pivot.py" />
       <jump line="37" column="20" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/reshape/pivot.py" />
       <jump line="489" column="15" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/reshape/pivot.py" />
+      <jump line="8265" column="41" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
+      <jump line="8279" column="31" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
+      <jump line="8283" column="8" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
+      <jump line="8284" column="42" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
+      <jump line="8835" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
+      <jump line="9025" column="4" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
+      <jump line="9052" column="4" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
+      <jump line="9080" column="4" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
+      <jump line="9203" column="3" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
+      <jump line="21" column="33" filename="/code.py" />
+      <jump line="20" column="21" filename="/code.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1312,7 +1319,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>正常終了するまでは強引にretryさせる</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1327,16 +1334,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>正常終了するまでは強引にretryさせる</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaXZvdF90YWJsZVw+</text>
+        <text encoding="base64">XDxudGhfZXhwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAiRCI6IFsxLCAyLCAyLCAzLCAzLCA0LCA1LCA2LCA3XX0sCg==</text>
+      <register name="0" type="4">
+        <text>, poll=10</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsndGVtcDEnOiAnMC44MCcsICd0ZW1wMic6ICcwLjgwJ30sCiAgICB7J3RlbXAxJzogJzAuODInLCAndGVtcDInOiAnMC44MCd9LAogICAgeyd0ZW1wMSc6ICcwLjg0JywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMC44NicsICd0ZW1wMic6ICcwLjgwJ30sCiAgICB7J3RlbXAxJzogJzAuODgnLCAndGVtcDInOiAnMC44MCd9LAogICAgeyd0ZW1wMSc6ICcwLjkwJywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMC45MicsICd0ZW1wMic6ICcwLjgwJ30sCiAgICB7J3RlbXAxJzogJzAuOTQnLCAndGVtcDInOiAnMC44MCd9LAogICAgeyd0ZW1wMSc6ICcwLjk2JywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMC45OCcsICd0ZW1wMic6ICcwLjgwJ30sCg==</text>
+        <text encoding="base64">ICAgIGxhdGVzdF9qb2Iud2FpdChsb2dzPVRydWUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1357,40 +1364,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsKICAgICAgICBleGNlcHQgU3RvcEl0ZXJhdGlvbjoKICAgICAgICAgICAgcHJpbnQoJ3N0b3AgaXRlcmF0aW9uIHJhaXNlZC4gcmV0cnkuLi4nKQogICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaCBpbiBoX3JhbmdlczoKICAgICAgICAgICAgIyBoeXBlcnBhcmFtZXRlcnMg44GvIOmDveW6puWIneacn+WMluOBl+OBpuW3ruWIhihoKeOBruOBv+OCkuWkieabtAogICAgICAgICAgICBlc3RpbWF0b3Iuc2V0X2h5cGVycGFyYW1ldGVycygqKnsqKkhZUEVSUEFSQU1FVEVSUywgKiooZml4ZWRfaF9wYXJhbXMgb3Ige30pLCAqKmh9KQogICAgICAgICAgICBlc3RpbWF0b3IuZml0KHsKICAgICAgICAgICAgICAgICd0cmFpbic6ICdzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuL3t9L3RyYWluJy5mb3JtYXQoRVhQRVJJTUVOVF9OQU1FKSwKICAgICAgICAgICAgICAgICd0ZXN0JzogJ3MzOi8vc2FnZW1ha2VyLWZvdXQtZm0tc2FuZGJveC9kb2lrZW4ve30vdGVzdCcuZm9ybWF0KEVYUEVSSU1FTlRfTkFNRSkKICAgICAgICAgICAgfSwgd2FpdD1GYWxzZSkKICAgICAgICBwcmludCgnYWxsIHN0YXJ0ZWQgLi4uJykKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICAjIHBvbGxpbmcg5pmC44GrZXZlbnTjgYznqbrjgaDjgahzYWdlbWFrZXIubG9nLm11bHRpX3N0cmVhbV9pdGVyIOOBpyBTdG9wSXRlcmF0aW9u44GM5ZG844Gw44KM44KL44Gf44KB5q2j5bi457WC5LqG44GZ44KL44G+44Gn44Gv5by35byV44GrcmV0cnnjgZXjgZvjgosKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgZXN0aW1hdG9yLmxhdGVzdF90cmFpbmluZ19qb2Iud2FpdChsb2dzPVRydWUpCiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBleGNlcHQgU3RvcEl0ZXJhdGlvbjoKICAgICAgICAgICAgICAgIHByaW50KCdzdG9wIGl0ZXJhdGlvbiByYWlzZWQuIHJldHJ5Li4uJykKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoaG9nZSgpKQo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuODAnfSwK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgeyd0ZW1wMSc6ICcxLjAnLCAndGVtcDInOiAnMC45J30sCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbm8gam9icyBmb3VuZC4gZml0IGpvYnMnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuNjYnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuNjgnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuNzAnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuNzInfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuNzQnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuNzYnfSwKICAgIHsndGVtcDEnOiAnMS4wJywgJ3RlbXAyJzogJzAuNzgnfSwK</text>
+        <text encoding="base64">ICAgIHsndGVtcDEnOiAnMC44MCcsICd0ZW1wMic6ICcwLjgwJ30sCiAgICB7J3RlbXAxJzogJzAuODInLCAndGVtcDInOiAnMC44MCd9LAogICAgeyd0ZW1wMSc6ICcwLjg0JywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMC44NicsICd0ZW1wMic6ICcwLjgwJ30sCiAgICB7J3RlbXAxJzogJzAuODgnLCAndGVtcDInOiAnMC44MCd9LAogICAgeyd0ZW1wMSc6ICcwLjkwJywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMC45MicsICd0ZW1wMic6ICcwLjgwJ30sCiAgICB7J3RlbXAxJzogJzAuOTQnLCAndGVtcDInOiAnMC44MCd9LAogICAgeyd0ZW1wMSc6ICcwLjk2JywgJ3RlbXAyJzogJzAuODAnfSwKICAgIHsndGVtcDEnOiAnMC45OCcsICd0ZW1wMic6ICcwLjgwJ30sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aG9nZSgpCg==</text>
+        <text encoding="base64">ZGYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoZGYpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaCBpbiBoX3JhbmdlczoKICAgICAgICAgICAgIyBoeXBlcnBhcmFtZXRlcnMg44GvIOmDveW6puWIneacn+WMluOBl+OBpuW3ruWIhihoKeOBruOBv+OCkuWkieabtAogICAgICAgICAgICBlc3RpbWF0b3Iuc2V0X2h5cGVycGFyYW1ldGVycygqKnsqKkhZUEVSUEFSQU1FVEVSUywgKiooZml4ZWRfaF9wYXJhbXMgb3Ige30pLCAqKmh9KQogICAgICAgICAgICBlc3RpbWF0b3IuZml0KHsKICAgICAgICAgICAgICAgICd0cmFpbic6ICdzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuL3t9L3RyYWluJy5mb3JtYXQoRVhQRVJJTUVOVF9OQU1FKSwKICAgICAgICAgICAgICAgICd0ZXN0JzogJ3MzOi8vc2FnZW1ha2VyLWZvdXQtZm0tc2FuZGJveC9kb2lrZW4ve30vdGVzdCcuZm9ybWF0KEVYUEVSSU1FTlRfTkFNRSkKICAgICAgICAgICAgfSwgd2FpdD1GYWxzZSkKICAgICAgICBwcmludCgnYWxsIHN0YXJ0ZWQgLi4uJykKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICAjIHBvbGxpbmcg5pmC44GrZXZlbnTjgYznqbrjgaDjgahzYWdlbWFrZXIubG9nLm11bHRpX3N0cmVhbV9pdGVyIOOBpyBTdG9wSXRlcmF0aW9u44GM5ZG844Gw44KM44KL44Gf44KB5q2j5bi457WC5LqG44GZ44KL44G+44Gn44Gv5by35byV44GrcmV0cnnjgZXjgZvjgosKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgZXN0aW1hdG9yLmxhdGVzdF90cmFpbmluZ19qb2Iud2FpdChsb2dzPVRydWUpCiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBleGNlcHQgU3RvcEl0ZXJhdGlvbjoKICAgICAgICAgICAgICAgIHByaW50KCdzdG9wIGl0ZXJhdGlvbiByYWlzZWQuIHJldHJ5Li4uJykKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgcmV0dXJuIHBkLkRhdGFGcmFtZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaXZvdF90YWJsZVw+</last-search>
+      <last-search encoding="base64">XDxudGhfZXhwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaXZvdF90YWJsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxudGhfZXhwXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1430,7 +1437,6 @@
         <entry encoding="base64">XDxiYXNlX2pvYl9uYW1lXD4=</entry>
         <entry encoding="base64">XDxleHBfbmFtZVw+</entry>
         <entry encoding="base64">XDxlc3RpbWF0b3JcPg==</entry>
-        <entry encoding="base64">XDxudGhfZXhwXD4=</entry>
         <entry encoding="base64">XDxoX3Jhbmdlc1w+</entry>
         <entry encoding="base64">XDxOVU1fRkVBVFVSRVNcPg==</entry>
         <entry encoding="base64">XDxyZWR1Y2VcPg==</entry>
@@ -1456,6 +1462,8 @@
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxwaXZvdF90YWJsZVw+</entry>
+        <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
+        <entry encoding="base64">XDxudGhfZXhwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
