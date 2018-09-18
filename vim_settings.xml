@@ -1131,11 +1131,11 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1537244541404">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="55" />
-        <mark key="^" line="16" column="55" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1537245628477">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_line.t" timestamp="1522144491196">
         <mark key="[" line="131" column="34" />
