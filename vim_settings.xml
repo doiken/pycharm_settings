@@ -623,11 +623,11 @@
         <mark key="^" line="471" column="17" />
         <mark key="." line="471" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/Pipfile" timestamp="1536720518486">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="2" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/Pipfile" timestamp="1537323978977">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1527506023902">
         <mark key="'" line="71" column="16" />
@@ -1322,7 +1322,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>正常終了するまでは強引にretryさせる</text>
+        <text>printfoo</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1337,7 +1337,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>正常終了するまでは強引にretryさせる</text>
+        <text>printfoo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudGhfZXhwXD4=</text>
