@@ -133,8 +133,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1537336164716">
-        <mark key="'" line="40" column="25" />
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1537339636962">
+        <mark key="'" line="46" column="51" />
         <mark key="[" line="40" column="31" />
         <mark key="]" line="40" column="33" />
         <mark key="." line="40" column="33" />
@@ -553,11 +553,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1537338357874">
-        <mark key="[" line="4" column="96" />
-        <mark key="]" line="4" column="118" />
-        <mark key="^" line="4" column="118" />
-        <mark key="." line="4" column="118" />
+      <file name="/code.py" timestamp="1537340107151">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="21" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -1303,11 +1303,11 @@
       <jump line="20" column="21" filename="/code.py" />
       <jump line="27" column="24" filename="/code.py" />
       <jump line="18" column="21" filename="/code.py" />
-      <jump line="46" column="51" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="40" column="25" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="431" column="17" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="463" column="62" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="466" column="31" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
+      <jump line="40" column="25" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="46" column="51" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1320,7 +1320,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>kkkkkkkkkkkkkkkkkkkkkk</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1335,16 +1335,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>kkkkkkkkkkkkkkkkkkkkkk</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoeXBlcnBhcmFtZXRlcnNcPg==</text>
+        <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>estimator</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGNyZWF0ZV9lc3RpbWF0b3IoYmFzZV9zdWZmaXgsIGltYWdlX25hbWUpOgogICAgYmFzZV9qb2JfbmFtZSA9ICd7fS17fScuZm9ybWF0KEVYUEVSSU1FTlRfTkFNRSwgYmFzZV9zdWZmaXgpCiAgICBpbnN0YW5jZV90eXBlID0gJ21sLmM1LjJ4bGFyZ2UnIGlmIGltYWdlX25hbWUgPT0gJ2xhdGVzdCcgZWxzZSAnbWwuYzUuNHhsYXJnZScKICAgIHJldHVybiBzYWdlbWFrZXIuZXN0aW1hdG9yLkVzdGltYXRvcigKICAgICAgICBpbWFnZV9uYW1lPSc3MjM5NDExOTU5MzcuZGtyLmVjci51cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9zYWdlbWFrZXItZm91dC1mbTp7fScuZm9ybWF0KGltYWdlX25hbWUpLAogICAgICAgIHJvbGU9J2Fybjphd3M6aWFtOjo3MjM5NDExOTU5Mzc6cm9sZS9BbWF6b25TYWdlTWFrZXItRXhlY3V0aW9uUm9sZScsCiAgICAgICAgdHJhaW5fdm9sdW1lX3NpemU9NjAsICAjIEdCCiAgICAgICAgdHJhaW5faW5zdGFuY2VfY291bnQ9MSwKICAgICAgICB0cmFpbl9pbnN0YW5jZV90eXBlPWluc3RhbmNlX3R5cGUsCiAgICAgICAgaW5wdXRfbW9kZT0nRmlsZScsCiAgICAgICAgb3V0cHV0X3BhdGg9J3MzOi8vc2FnZW1ha2VyLWZvdXQtZm0tc2FuZGJveC9kb2lrZW4ve30vam9icycuZm9ybWF0KEVYUEVSSU1FTlRfTkFNRSksICAjIG91dHB1dF9wYXRo44Gv5ZCEam9i5q+O44GrZGlyZWN0b3J544KS5YiH44KJ44KMb3V0cHV044OV44Kp44Or44OA44GM55Sf5oiQ44GV44KM44KLCiAgICAgICAgYmFzZV9qb2JfbmFtZT1iYXNlX2pvYl9uYW1lLAogICAgICAgIHRhZ3M9W2RpY3QoS2V5PSdPd25lcicsIFZhbHVlPSdTY2llbmNlJyldCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdhbGwgc3RhcnRlZCAuLi4nKQogICAgIiIiCiAgICBwb2xsaW5nIOaZguOBq2V2ZW5044GM56m644Gg44Goc2FnZW1ha2VyLmxvZy5tdWx0aV9zdHJlYW1faXRlciDjgacgU3RvcEl0ZXJhdGlvbuOBjOWRvOOBsOOCjOOCiwogICAg44Gd44Gu44Gf44KBcG9sbOOBrmludGVydmFs44KS5Y2B5YiG44Gr5Ly444Gw44GZCiAgICAiIiIK</text>
+        <text encoding="base64">ZGVmIGNyZWF0ZV9lc3RpbWF0b3IobnRoX2pvYik6CiAgICBiYXNlX2pvYl9uYW1lID0gJ3t9LXt9Jy5mb3JtYXQoRVhQRVJJTUVOVF9OQU1FLCBudGhfam9iKQogICAgcmV0dXJuIHNhZ2VtYWtlci5lc3RpbWF0b3IuRXN0aW1hdG9yKAogICAgICAgIGltYWdlX25hbWU9JzcyMzk0MTE5NTkzNy5ka3IuZWNyLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tL3NhZ2VtYWtlci1mb3V0LWZtOnt9Jy5mb3JtYXQoJ2VmMTlkMWVhN2MyZDEyZTBjYTZjNTE5MGMwNTIyZmQ1YjA0NWFhZmYnKSwKICAgICAgICByb2xlPSdhcm46YXdzOmlhbTo6NzIzOTQxMTk1OTM3OnJvbGUvQW1hem9uU2FnZU1ha2VyLUV4ZWN1dGlvblJvbGUnLAogICAgICAgIHRyYWluX3ZvbHVtZV9zaXplPTYwLCAgIyBHQgogICAgICAgIHRyYWluX2luc3RhbmNlX2NvdW50PTEsCiAgICAgICAgdHJhaW5faW5zdGFuY2VfdHlwZT0nbWwuYzUuNHhsYXJnZScsCiAgICAgICAgaW5wdXRfbW9kZT0nRmlsZScsCiAgICAgICAgb3V0cHV0X3BhdGg9J3MzOi8vc2FnZW1ha2VyLWZvdXQtZm0tc2FuZGJveC9kb2lrZW4ve30vam9icycuZm9ybWF0KEVYUEVSSU1FTlRfTkFNRSksICAjIG91dHB1dF9wYXRo44Gv5ZCEam9i5q+O44GrZGlyZWN0b3J544KS5YiH44KJ44KMb3V0cHV044OV44Kp44Or44OA44GM55Sf5oiQ44GV44KM44KLCiAgICAgICAgaHlwZXJwYXJhbWV0ZXJzPUhZUEVSUEFSQU1FVEVSUywgICMg5Lul6ZmN44GT44Gh44KJ44Gu5aSJ5pWw44Gu44G/5aSJ5pu044GV44KM44GG44KLCiAgICAgICAgYmFzZV9qb2JfbmFtZT1iYXNlX2pvYl9uYW1lLAogICAgICAgIHRhZ3M9W2RpY3QoS2V5PSdPd25lcicsIFZhbHVlPSdTY2llbmNlJyldCiAgICApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1365,50 +1365,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc19iYXNlbGluZToK</text>
+        <text encoding="base64">ICAgIGZvciBlIGluIFsK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc19iYXNlbGluZToK</text>
+        <text encoding="base64">ICAgIHByaW50KCdhbGwgc3RhcnRlZCAuLi4nKQogICAgIiIiCiAgICBwb2xsaW5nIOaZguOBq2V2ZW5044GM56m644Gg44Goc2FnZW1ha2VyLmxvZy5tdWx0aV9zdHJlYW1faXRlciDjgacgU3RvcEl0ZXJhdGlvbuOBjOWRvOOBsOOCjOOCiwogICAg44Gd44Gu44Gf44KBcG9sbOOBrmludGVydmFs44KS5Y2B5YiG44Gr5Ly444Gw44GZCiAgICAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlc3RpbWF0b3IgPSBjcmVhdGVfZXN0aW1hdG9yKG50aF9leHApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVfZXN0aW1hdG9yKCcnLCAnbGF0ZXN0JyksCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc19iYXNlbGluZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBJTkZPOnNhZ2VtYWtlcjpDcmVhdGluZyB0cmFpbmluZy1qb2Igd2l0aCBuYW1lOiA1MjcxOS1tb2RlbDgtY3JhZnR3b3JrLTAxLTIwMTgtMDktMTMtMDEtNDEtNDUtNjg1CiMgSU5GTzpzYWdlbWFrZXI6Q3JlYXRpbmcgdHJhaW5pbmctam9iIHdpdGggbmFtZTogNTI3MTktbW9kZWw4LWNyYWZ0d29yay0wMS0yMDE4LTA5LTEzLTAxLTQxLTQ2LTQ0NAojIElORk86c2FnZW1ha2VyOkNyZWF0aW5nIHRyYWluaW5nLWpvYiB3aXRoIG5hbWU6IDUyNzE5LW1vZGVsOC1jcmFmdHdvcmstMDEtMjAxOC0wOS0xMy0wMS00MS00Ny0yOTIKIyBJTkZPOnNhZ2VtYWtlcjpDcmVhdGluZyB0cmFpbmluZy1qb2Igd2l0aCBuYW1lOiA1MjcxOS1tb2RlbDgtY3JhZnR3b3JrLTAxLTIwMTgtMDktMTMtMDEtNDEtNTEtMzkwCiMgSU5GTzpzYWdlbWFrZXI6Q3JlYXRpbmcgdHJhaW5pbmctam9iIHdpdGggbmFtZTogNTI3MTktbW9kZWw4LWNyYWZ0d29yay0wMS0yMDE4LTA5LTEzLTAxLTQxLTU0LTM2MAojIElORk86c2FnZW1ha2VyOkNyZWF0aW5nIHRyYWluaW5nLWpvYiB3aXRoIG5hbWU6IDUyNzE5LW1vZGVsOC1jcmFmdHdvcmstMDEtMjAxOC0wOS0xMy0wMS00MS01Ni0yNzcKIyBJTkZPOnNhZ2VtYWtlcjpDcmVhdGluZyB0cmFpbmluZy1qb2Igd2l0aCBuYW1lOiA1MjcxOS1tb2RlbDgtY3JhZnR3b3JrLTAxLTIwMTgtMDktMTMtMDEtNDEtNTctODU5CiMgSU5GTzpzYWdlbWFrZXI6Q3JlYXRpbmcgdHJhaW5pbmctam9iIHdpdGggbmFtZTogNTI3MTktbW9kZWw4LWNyYWZ0d29yay0wMS0yMDE4LTA5LTEzLTAxLTQxLTU5LTM1MwojIHN0YXJ0aW5nIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc19iYXNlbGluZToK</text>
       </register>
-      <register name="8" type="4">
-        <text>[
-    {'2ndftrla': '0.0028961257570'},
-    {'2ndftrla': '0.0128961257570'},
-    {'2ndftrla': '0.0228961257570'},
-    {'2ndftrla': '0.0328961257570'},
-    # {'2ndftrla': '0.0428961257570'},
-    {'2ndftrla': '0.0528961257570'},
-    {'2ndftrla': '0.0628961257570'},
-    {'2ndftrla': '0.0728961257570'},
-    {'2ndftrla': '0.0828961257570'},
-]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlc3RpbWF0b3IgPSBjcmVhdGVfZXN0aW1hdG9yKG50aF9leHApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoeXBlcnBhcmFtZXRlcnM9SFlQRVJQQVJBTUVURVJTLCAgIyDku6XpmY3jgZPjgaHjgonjga7lpInmlbDjga7jgb/lpInmm7TjgZXjgozjgYbjgosK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVfZXN0aW1hdG9yKCcnLCAnbGF0ZXN0JyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoeXBlcnBhcmFtZXRlcnNcPg==</last-search>
+      <last-search encoding="base64">XDxwYXJhbXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoeXBlcnBhcmFtZXRlcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJhbXNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1474,8 +1464,8 @@
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
         <entry encoding="base64">XDxudGhfZXhwXD4=</entry>
         <entry encoding="base64">XDxlc3RpbWF0b3JcPg==</entry>
-        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxoeXBlcnBhcmFtZXRlcnNcPg==</entry>
+        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
