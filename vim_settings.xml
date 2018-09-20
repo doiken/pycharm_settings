@@ -9,7 +9,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" timestamp="1530501869223">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1536742999159">
+      <file name="/a.dummy" timestamp="1537411287133">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/get_ads_by_adgroup.t" timestamp="1522230090089">
@@ -547,18 +547,18 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
         <mark key="'" line="678" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537344043006">
+      <file name="/Dummy.txt" timestamp="1537407409157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1537346835245">
-        <mark key="'" line="0" column="13" />
-        <mark key="[" line="58" column="49" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
+      <file name="/code.py" timestamp="1537411647878">
+        <mark key="'" line="9" column="84" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -608,6 +608,12 @@
         <mark key="]" line="17" column="34" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/utils.py" timestamp="1537411625407">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="38" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1531111671409">
         <mark key="'" line="76" column="12" />
@@ -845,10 +851,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1537342067512">
-        <mark key="'" line="466" column="31" />
-        <mark key="[" line="157" column="48" />
-        <mark key="]" line="157" column="60" />
+      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1537411133396">
+        <mark key="'" line="490" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-plusplus/src/plusplus.coffee" timestamp="1526025351349">
         <mark key="'" line="181" column="2" />
@@ -870,6 +874,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala" timestamp="1529032320861">
         <mark key="'" line="959" column="6" />
+      </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" timestamp="1537411212332">
+        <mark key="'" line="153" column="23" />
+        <mark key="[" line="145" column="47" />
+        <mark key="]" line="145" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/fm_model_etl/sagemaker.t" timestamp="1530496710150">
         <mark key="[" line="25" column="25" />
@@ -1143,11 +1152,11 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1537345686338">
-        <mark key="[" line="21" column="93" />
-        <mark key="]" line="21" column="106" />
-        <mark key="." line="21" column="105" />
-        <mark key="^" line="21" column="105" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1537410991210">
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_line.t" timestamp="1522144491196">
         <mark key="[" line="131" column="34" />
@@ -1212,12 +1221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="378" column="34" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="382" column="34" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="387" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="397" column="39" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="401" column="35" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="168" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="48" column="4" filename="/code.py" />
       <jump line="58" column="8" filename="/code.py" />
       <jump line="56" column="42" filename="/code.py" />
@@ -1231,7 +1234,6 @@
       <jump line="1189" column="58" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/frame.py" />
       <jump line="1201" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/frame.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="8" column="55" filename="/code.py" />
       <jump line="6" column="41" filename="/code.py" />
       <jump line="48" column="13" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="2" column="30" filename="/code.py" />
@@ -1251,7 +1253,6 @@
       <jump line="113" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="103" column="13" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="108" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="7" column="0" filename="/code.py" />
       <jump line="157" column="26" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="180" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="95" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
@@ -1266,7 +1267,6 @@
       <jump line="95" column="4" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/logs.py" />
       <jump line="9" column="14" filename="/code.py" />
       <jump line="10" column="67" filename="/code.py" />
-      <jump line="3" column="7" filename="/code.py" />
       <jump line="0" column="0" filename="/code.py" />
       <jump line="104" column="13" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="107" column="28" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
@@ -1305,13 +1305,22 @@
       <jump line="44" column="39" filename="/code.py" />
       <jump line="46" column="94" filename="/code.py" />
       <jump line="43" column="21" filename="/code.py" />
-      <jump line="5" column="13" filename="/code.py" />
       <jump line="189" column="27" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/local/local_session.py" />
       <jump line="797" column="27" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
       <jump line="803" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
       <jump line="858" column="102" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
       <jump line="811" column="82" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
       <jump line="40" column="27" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="3" column="13" filename="/code.py" />
+      <jump line="5" column="67" filename="/code.py" />
+      <jump line="25" column="136" filename="/code.py" />
+      <jump line="23" column="16" filename="/code.py" />
+      <jump line="8" column="84" filename="/code.py" />
+      <jump line="7" column="84" filename="/code.py" />
+      <jump line="490" column="36" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
+      <jump line="145" column="47" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
+      <jump line="152" column="9" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
+      <jump line="153" column="23" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1324,7 +1333,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>h_params</text>
+        <text>metrics</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1339,16 +1348,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>BASELINE</text>
+        <text>metrics</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2JfbmFtZVw+</text>
+        <text encoding="base64">XDxrd2FyZ3NcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>h_params</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBpbXBvcnRsaWIucmVsb2FkKG1ldHJpY3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdzc3JhdGUnOiAnMC4yJwo=</text>
+        <text encoding="base64">IyBpbXBvcnRsaWIucmVsb2FkKG1ldHJpY3MpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1369,40 +1378,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuLzUyNzk2LW1vZGVsOC12ZXJpZnkvYmFzZWxpbmUtZW5kLTMtM2RheS90cmFpbi9wYXJ0LTAwMDAwLmd6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgxKQo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuLzUyNzk2LW1vZGVsOC12ZXJpZnkvYmFzZWxpbmUtZW5kLTMtMjFkYXkvdHJhaW4vcGFydC0wMDAwMC5nego=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuLzUyNzk2LW1vZGVsOC12ZXJpZnkvYmFzZWxpbmUtZW5kLTMtMWRheS90ZXN0L3BhcnQtMDAwMDAuZ3oK</text>
+        <text encoding="base64">ICAgICAgdGV4dD10ZXh0LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NTI3OTYtbW9kZWw4LXZlcmlmeS1lbmQzLTFkYXktYmFzZWluZS0xCg==</text>
+        <text encoding="base64">ICAgIHNsYWNrX3Rva2VuID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JfZGZbJ21vZGVsJ10gPSBzZXEoam9iX2RmLmluZGV4LnZhbHVlcykubWFwKGxhbWJkYSBuOiBuLnJlcGxhY2UoZXN0aW1hdG9yLmJhc2Vfam9iX25hbWUgKyAnLScsICcnKSkudG9fbGlzdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JfZGZbJ21vZGVsJ10gPSBzZXEoam9iX2RmLmluZGV4LnZhbHVlcykubWFwKGxhbWJkYSBpOiBpICUgMykudG9fbGlzdCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCnByaW50KG9zLmVudmlyb25bIlNMQUNLX1RPS0VOIl0pCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JfZGYucGkK</text>
+        <text encoding="base64">ICAgICAgICBlc3RpbWF0b3IuYmFzZV9qb2JfbmFtZSArPSBmJy17bW9kZWx9JyAgIyBqb2JfbmFtZSDjga7mloflrZfliJfotoXpgY4K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2JfbmFtZVw+</last-search>
+      <last-search encoding="base64">XDxrd2FyZ3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2JfbmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxrd2FyZ3NcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1472,6 +1481,8 @@
         <entry encoding="base64">XDxpbWFnZV9uYW1lXD4=</entry>
         <entry encoding="base64">XDxwZXJpb2RcPg==</entry>
         <entry encoding="base64">XDxqb2JfbmFtZVw+</entry>
+        <entry encoding="base64">XDxtb2RlbFw+</entry>
+        <entry encoding="base64">XDxrd2FyZ3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
