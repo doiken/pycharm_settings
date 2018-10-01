@@ -550,18 +550,18 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
         <mark key="'" line="678" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537407409157">
+      <file name="/Dummy.txt" timestamp="1538387759693">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1538386675041">
+      <file name="/code.py" timestamp="1538387836571">
         <mark key="'" line="0" column="54" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -1337,8 +1337,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Mi1sZXZlbCBET0Xmj5vnrpfjgafjgoLjgafjgZ3jgozjgZ7jgozjga7nibnlvrTph4/jgpIK</text>
+      <register name="&quot;" type="4">
+        <text>もう少し学習を進める</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1353,7 +1353,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>に</text>
+        <text>もう少し学習を進める</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoX3BhcmFtc1w+</text>
