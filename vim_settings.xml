@@ -30,13 +30,6 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/audience_proxy.pl" timestamp="1529546961763">
-        <mark key="'" line="80" column="24" />
-        <mark key="[" line="81" column="24" />
-        <mark key="]" line="81" column="27" />
-        <mark key="." line="81" column="27" />
-        <mark key="^" line="81" column="27" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/data/auto_cutboost_params.t" timestamp="1531216622159">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -48,13 +41,6 @@
       </file>
       <file name="$FOUT_HOME$/db/cron/rotate_logs_table.pl" timestamp="1529057203013">
         <mark key="'" line="69" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/set_pctr_pcvr_candidate_log.t" timestamp="1531123872497">
-        <mark key="'" line="92" column="27" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="42" />
-        <mark key="^" line="150" column="71" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/model/adgroup-isthirdparty.t" timestamp="1531120798947">
         <mark key="'" line="36" column="72" />
@@ -89,13 +75,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" timestamp="1530675400653">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1530689592374">
-        <mark key="'" line="103" column="40" />
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/CVNumMaximizationUpdater.pm" timestamp="1519347190214">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="20" />
@@ -107,13 +86,6 @@
         <mark key="]" line="40" column="61" />
         <mark key="." line="40" column="61" />
         <mark key="^" line="40" column="61" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1531123847782">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="19" />
-        <mark key="^" line="21" column="19" />
-        <mark key="." line="21" column="19" />
       </file>
       <file name="$FOUT_HOME$/sql/migrate/20180129_45304_dsp.sql" timestamp="1519033216583">
         <mark key="[" line="13" column="2" />
@@ -127,28 +99,22 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1536746077832">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="35" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1538471991374">
+        <mark key="'" line="14" column="21" />
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="38" column="17" />
+        <mark key="^" line="38" column="17" />
+        <mark key="." line="38" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1538465251013">
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1538472282288">
         <mark key="'" line="22" column="4" />
-        <mark key="[" line="40" column="49" />
-        <mark key="]" line="40" column="52" />
-        <mark key="^" line="40" column="52" />
-        <mark key="." line="40" column="52" />
-      </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Data/MessagePack/PP.pm" timestamp="1531100137848">
-        <mark key="'" line="173" column="8" />
-        <mark key="[" line="166" column="1" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="22" column="8" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appnexus.t" timestamp="1522145308367">
         <mark key="[" line="74" column="40" />
@@ -161,13 +127,6 @@
         <mark key="]" line="22" column="124" />
         <mark key="." line="22" column="124" />
         <mark key="^" line="22" column="124" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_line_video.t" timestamp="1529475940396">
-        <mark key="'" line="14" column="18" />
-        <mark key="[" line="163" column="37" />
-        <mark key="]" line="163" column="56" />
-        <mark key="^" line="160" column="27" />
-        <mark key="." line="163" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigParser.scala" timestamp="1528351784016">
         <mark key="'" line="14" column="6" />
@@ -187,13 +146,7 @@
         <mark key="^" line="88" column="56" />
         <mark key="." line="80" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL.pm" timestamp="1531101207641">
-        <mark key="'" line="77" column="5" />
-        <mark key="[" line="134" column="38" />
-        <mark key="]" line="134" column="5" />
-        <mark key="^" line="134" column="5" />
-        <mark key="." line="134" column="5" />
-      </file>
+      <file name="/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pprint.py" timestamp="1538468841892" />
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1527505947743">
         <mark key="'" line="54" column="11" />
       </file>
@@ -215,20 +168,6 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/.jupyter/jupyter_notebook_config.py" timestamp="1536721822978">
-        <mark key="'" line="765" column="2" />
-        <mark key="[" line="751" column="0" />
-        <mark key="]" line="751" column="0" />
-        <mark key="^" line="758" column="10" />
-        <mark key="." line="751" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1531191294719">
-        <mark key="'" line="928" column="2" />
-        <mark key="[" line="191" column="73" />
-        <mark key="]" line="191" column="75" />
-        <mark key="." line="191" column="75" />
-        <mark key="^" line="191" column="75" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1531191378103">
         <mark key="'" line="249" column="4" />
       </file>
@@ -243,27 +182,6 @@
         <mark key="]" line="49" column="38" />
         <mark key="^" line="36" column="70" />
         <mark key="." line="49" column="38" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1529629570676">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="9" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="36" column="1" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1529475910253">
-        <mark key="'" line="155" column="47" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="21" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1530671101105">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
       </file>
       <file name="$FOUT_HOME$/api/config.yaml" timestamp="1526608831953">
         <mark key="'" line="0" column="0" />
@@ -282,13 +200,6 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1530685439286">
         <mark key="'" line="94" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_not_line.t" timestamp="1529476004191">
-        <mark key="'" line="132" column="54" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="159" column="26" />
-        <mark key="." line="133" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/lib/Mock/RfpNetwork/DB.pm" timestamp="1519026494882">
         <mark key="[" line="12" column="12" />
@@ -310,13 +221,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1526553090781">
         <mark key="'" line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" timestamp="1531204566989">
-        <mark key="'" line="11" column="8" />
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid.t" timestamp="1522202404062">
         <mark key="[" line="94" column="43" />
@@ -351,13 +255,6 @@
         <mark key="." line="45" column="34" />
         <mark key="^" line="45" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1530697940390">
-        <mark key="'" line="103" column="53" />
-        <mark key="[" line="35" column="10" />
-        <mark key="]" line="35" column="9" />
-        <mark key="." line="35" column="9" />
-        <mark key="^" line="35" column="9" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1527583214434">
         <mark key="'" line="32" column="4" />
       </file>
@@ -372,13 +269,6 @@
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1529556781815">
-        <mark key="'" line="57" column="2" />
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_alter_pctr_pcvr_candidate.sql" timestamp="1531200593611">
         <mark key="[" line="0" column="99" />
@@ -413,13 +303,6 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" timestamp="1531123622223">
-        <mark key="'" line="112" column="52" />
-        <mark key="[" line="408" column="0" />
-        <mark key="]" line="408" column="62" />
-        <mark key="^" line="110" column="27" />
-        <mark key="." line="284" column="12" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoostLDRate.pm" timestamp="1529286950990">
         <mark key="[" line="46" column="46" />
         <mark key="]" line="46" column="46" />
@@ -431,13 +314,6 @@
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/reshape/pivot.py" timestamp="1537244670015">
         <mark key="'" line="489" column="15" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" timestamp="1529569616721">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="69" column="8" />
-        <mark key="]" line="69" column="8" />
-        <mark key="." line="69" column="8" />
-        <mark key="^" line="68" column="37" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Cache/Memcached/Fast/Safe.pm" timestamp="1527753194028">
         <mark key="'" line="126" column="10" />
@@ -472,13 +348,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1526434977634">
         <mark key="'" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1531204522235">
-        <mark key="'" line="4" column="14" />
-        <mark key="[" line="1445" column="2" />
-        <mark key="]" line="1445" column="19" />
-        <mark key="." line="1445" column="12" />
-        <mark key="^" line="1445" column="12" />
-      </file>
       <file name="$FOUT_HOME$/config_local.yaml" timestamp="1527581517126">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -496,13 +365,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1530697566927">
-        <mark key="'" line="1229" column="4" />
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" timestamp="1527666866947">
         <mark key="'" line="36" column="62" />
@@ -524,13 +386,6 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/0014_fm_notline_cvr.yml" timestamp="1529396818851">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/README.md" timestamp="1536803302005">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="36" column="4" />
-        <mark key="^" line="36" column="4" />
-        <mark key="." line="36" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" timestamp="1526356746203">
         <mark key="'" line="35" column="8" />
@@ -556,11 +411,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1538464569928">
+      <file name="/code.py" timestamp="1538472679435">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="43" />
-        <mark key="^" line="2" column="43" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="37" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -573,13 +428,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="25" column="38" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1529546109877">
-        <mark key="'" line="633" column="33" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp.t" timestamp="1522230124266">
         <mark key="[" line="37" column="21" />
@@ -660,13 +508,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1531204337789">
         <mark key="'" line="29" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" timestamp="1531104767159">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="43" column="67" />
-        <mark key="]" line="43" column="69" />
-        <mark key="^" line="39" column="12" />
-        <mark key="." line="43" column="67" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" timestamp="1527670509980">
         <mark key="'" line="24" column="15" />
       </file>
@@ -691,13 +532,6 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" timestamp="1530683459507">
-        <mark key="'" line="6" column="45" />
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="3" column="24" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/dynamic_ads/item_importer/http_fetcher.t" timestamp="1523947064301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -709,13 +543,6 @@
         <mark key="]" line="455" column="17" />
         <mark key="." line="455" column="17" />
         <mark key="^" line="455" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1530856948231">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="270" column="14" />
-        <mark key="^" line="270" column="14" />
-        <mark key="." line="270" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestYAMLUtil.scala" timestamp="1528283985998">
         <mark key="[" line="0" column="0" />
@@ -761,25 +588,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/DBoost.pm" timestamp="1529042090186">
         <mark key="'" line="16" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/ProductPrediction.pm" timestamp="1529574597491">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="17" column="82" />
-        <mark key="]" line="17" column="82" />
-        <mark key="^" line="29" column="63" />
-        <mark key="." line="17" column="82" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1527664778887">
         <mark key="'" line="88" column="12" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java" timestamp="1528336921665">
         <mark key="'" line="192" column="26" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1531216565972">
-        <mark key="'" line="53" column="33" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-ase-segment.t" timestamp="1519046678009">
         <mark key="[" line="43" column="35" />
@@ -817,13 +630,6 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$FOUT_HOME$/t/static_analysis_of_dependency.t" timestamp="1531120795805">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="276" column="51" />
-        <mark key="]" line="276" column="59" />
-        <mark key="^" line="276" column="59" />
-        <mark key="." line="276" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/streaming/etl_conversion.t" timestamp="1519892028557">
         <mark key="[" line="7" column="461" />
         <mark key="]" line="7" column="460" />
@@ -833,22 +639,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/Util/Hive.pm" timestamp="1526376630398">
         <mark key="'" line="15" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" timestamp="1529634191281">
-        <mark key="'" line="39" column="32" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="57" />
-        <mark key="." line="43" column="37" />
-        <mark key="^" line="43" column="37" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
         <mark key="'" line="184" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" timestamp="1530596520491">
-        <mark key="'" line="64" column="16" />
-        <mark key="[" line="112" column="24" />
-        <mark key="]" line="112" column="25" />
-        <mark key="." line="112" column="24" />
-        <mark key="^" line="112" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
@@ -904,20 +696,6 @@
         <mark key="]" line="5" column="24" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCVRPercentile.pm" timestamp="1529632256073">
-        <mark key="'" line="22" column="29" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1531274010494">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="41" column="34" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="41" column="34" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/WatchServiceLog.pm" timestamp="1513152968960">
         <mark key="[" line="145" column="14" />
@@ -983,27 +761,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/FMPrediction.pm" timestamp="1529483013244">
         <mark key="'" line="17" column="47" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1531205755367">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="36" column="71" />
-        <mark key="]" line="36" column="83" />
-        <mark key="^" line="36" column="83" />
-        <mark key="." line="36" column="83" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/.juptyter/jupyter_notebook_config.py" timestamp="1536720348445">
-        <mark key="'" line="250" column="16" />
-        <mark key="[" line="752" column="0" />
-        <mark key="]" line="753" column="91" />
-        <mark key="." line="753" column="91" />
-        <mark key="^" line="753" column="91" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/ModelId.pm" timestamp="1530683107688">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="18" />
-        <mark key="^" line="24" column="73" />
-        <mark key="." line="41" column="4" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/data/adgroup.t" timestamp="1523942271200">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -1012,20 +769,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" timestamp="1526441225894">
         <mark key="'" line="50" column="56" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" timestamp="1529632306033">
-        <mark key="'" line="50" column="1" />
-        <mark key="[" line="69" column="1" />
-        <mark key="]" line="69" column="1" />
-        <mark key="." line="69" column="1" />
-        <mark key="^" line="69" column="1" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/bucket141.t" timestamp="1531275613340">
-        <mark key="'" line="187" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="170" column="29" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fout/templates/home/nn/.bashrc" timestamp="1530507868195">
         <mark key="'" line="55" column="0" />
@@ -1038,13 +781,6 @@
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/data/pctr_pcvr_percentile.t" timestamp="1531205880209">
         <mark key="'" line="93" column="12" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" timestamp="1531124620422">
-        <mark key="'" line="128" column="4" />
-        <mark key="[" line="129" column="77" />
-        <mark key="]" line="129" column="77" />
-        <mark key="^" line="129" column="77" />
-        <mark key="." line="129" column="77" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Mouse.pm" timestamp="1530581795914">
         <mark key="'" line="34" column="32" />
@@ -1070,13 +806,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" timestamp="1527133623952">
         <mark key="'" line="122" column="30" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Percentile.pm" timestamp="1529629410977">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="37" />
-        <mark key="^" line="139" column="11" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/constants.py" timestamp="1536732166943">
         <mark key="[" line="0" column="38" />
@@ -1105,13 +834,6 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1529563936640">
-        <mark key="'" line="726" column="23" />
-        <mark key="[" line="993" column="46" />
-        <mark key="]" line="993" column="3" />
-        <mark key="." line="993" column="3" />
-        <mark key="^" line="993" column="3" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-no_url_broad.t" timestamp="1522202410080">
         <mark key="[" line="25" column="36" />
         <mark key="]" line="22" column="14" />
@@ -1136,31 +858,17 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" timestamp="1531112096918">
         <mark key="'" line="178" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1531205868768">
-        <mark key="'" line="47" column="8" />
-        <mark key="[" line="51" column="29" />
-        <mark key="]" line="51" column="36" />
-        <mark key="." line="51" column="36" />
-        <mark key="^" line="51" column="36" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" timestamp="1531125020640">
-        <mark key="'" line="34" column="8" />
-        <mark key="[" line="23" column="2" />
-        <mark key="]" line="23" column="4" />
-        <mark key="^" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction50304.pm" timestamp="1530513933842">
         <mark key="'" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1537503418742">
-        <mark key="[" line="31" column="89" />
-        <mark key="]" line="31" column="89" />
-        <mark key="." line="31" column="89" />
-        <mark key="^" line="31" column="89" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538468121845">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_line.t" timestamp="1522144491196">
         <mark key="[" line="131" column="34" />
@@ -1192,13 +900,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1528170075667">
         <mark key="'" line="52" column="8" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" timestamp="1531275597391">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="166" column="68" />
-        <mark key="." line="164" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.pl" timestamp="1513064469410">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -1225,11 +926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="26" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="180" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="47" column="51" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="87" column="35" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="93" column="16" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="94" column="20" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="306" column="21" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="804" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
@@ -1290,7 +986,6 @@
       <jump line="184" column="37" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="191" column="11" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="111" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="95" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="98" column="13" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="5" column="17" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="36" column="9" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
@@ -1316,14 +1011,20 @@
       <jump line="83" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="115" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="81" column="16" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="77" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="85" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="84" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="21" column="23" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="76" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="20" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="94" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="94" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="88" column="17" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="1" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="11" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="95" column="11" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="21" column="23" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="77" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="22" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
     </jumps>
     <registers>
@@ -1337,7 +1038,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{}</text>
+        <text>.head(15)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1352,20 +1053,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>.head(15)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxldmVudHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>boto3.client('logs').describe_log_streams(
-        logGroupName = log_group_name,
-        logStreamNamePrefix = base_job_name,
-        orderBy='LastEventTime'
-    )['logStreams']</text>
+        <text>stream_names</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWV0cmljcy5nZXRfbWV0cmljcy5jYWNoZV9jbGVhcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1386,31 +1083,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGZ1bmN0b29scy5scnVfY2FjaGUobWF4c2l6ZT0yNTUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXkoZGYpCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmRlZiBsaXN0X2pvYnMoZXN0aW1hdG9yLCBwYXJhbXM9e30pOgogICAgYmFzZV9qb2JfbmFtZSA9IGVzdGltYXRvci5iYXNlX2pvYl9uYW1lCiAgICBqb2JfZGYgPSBfX2xpc3Rfam9icyhiYXNlX2pvYl9uYW1lKQogICAgbWV0cmljc19kZiA9IGdldF9tZXRyaWNzKGJhc2Vfam9iX25hbWUpCiAgICBvdXRwdXRfc2l6ZV9kZiA9IGdldF9tb2RlbF9zaXplcyhlc3RpbWF0b3Iub3V0cHV0X3BhdGgsIGJhc2Vfam9iX25hbWUpCgogICAgam9pbmVkX2RmID0gcGQuY29uY2F0KFttZXRyaWNzX2RmLCBqb2JfZGZbbGlzdChwYXJhbXMua2V5cygpKSArIFsnRWxhcHNlZFRpbWUnXV0sIG91dHB1dF9zaXplX2RmXSwgYXhpcz0xLCBzb3J0PVRydWUpCiAgICByZXR1cm4gam9pbmVkX2RmCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN0cmVhbV9uYW1lcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhc2Vfam9iX25hbWUgPSBiYXNlX2pvYl9uYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Mi1sZXZlbCBET0Xmj5vnrpfjgafjgoLjgafjgZ3jgozjgZ7jgozjga7nibnlvrTph4/jgpIK</text>
+        <text encoding="base64">ICAgIHN0cmVhbXMgPSBib3RvMy5jbGllbnQoJ2xvZ3MnKS5kZXNjcmliZV9sb2dfc3RyZWFtcygKICAgICAgICBsb2dHcm91cE5hbWUgPSBsb2dfZ3JvdXBfbmFtZSwKICAgICAgICBsb2dTdHJlYW1OYW1lUHJlZml4ID0gYmFzZV9qb2JfbmFtZQogICAgKVsnbG9nU3RyZWFtcyddCiAgICB0ID0gc3RyZWFtcy5uZXh0X3Rva2VuCiAgICB3aGlsZSB0OgogICAgICAgIHN0cmVhbXMgKz0gKGJvdG8zLmNsaWVudCgnbG9ncycpLmRlc2NyaWJlX2xvZ19zdHJlYW1zKAogICAgICAgICAgICBsb2dHcm91cE5hbWUgPSBsb2dfZ3JvdXBfbmFtZSwKICAgICAgICAgICAgbG9nU3RyZWFtTmFtZVByZWZpeCA9IGJhc2Vfam9iX25hbWUsCiAgICAgICAgICAgIG5leHRUb2tlbj10CiAgICAgICAgKVsnbG9nU3RyZWFtcyddIG9yIFtdKQoKICAgIHJldHVybiBzdHJlYW1zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdmYWN0b3InOiAgICBJbnRlZ2VyUGFyYW1ldGVyKDIsIDQpLAo=</text>
+        <text encoding="base64">dG9rZW4gPSBOb25lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsnMm5kZnRybGwxJzogJzAuMDg0NTk1Njc3MzMzNSd9LAogICAgeycybmRmdHJsbDEnOiAnMC4wOTQ1OTU2NzczMzM1J30sCiAgICB7JzJuZGZ0cmxsMSc6ICcwLjEwNDU5NTY3NzMzMzUnfSwKICAgIHsnMm5kZnRybGwxJzogJzAuMTE0NTk1Njc3MzMzNSd9LAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRva2VuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Mm5kZnRybDEg44KSMC4wMeOBmuOBpOOBmuOCieOBmQoK57WQ5p6cOiDmlLnlloTjgZvjgZoK</text>
+        <text encoding="base64">c3RyZWFtcywgdG9rZW4gPSBsb2dfc3RyZWFtcyhOb25lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -1493,10 +1190,13 @@
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxfX2V4dHJhY3Rfam9iX2lkX2Zyb21fczNfcGF0aFw+</entry>
         <entry encoding="base64">XDxfX2ZldGNoX2V2ZW50c1w+</entry>
-        <entry encoding="base64">XDxfX2ZldGNoX3N0cmVhbXNcPg==</entry>
         <entry encoding="base64">XDxnZXRfbWV0cmljc1w+</entry>
-        <entry encoding="base64">XDxfX2xpc3Rfam9ic1w+</entry>
         <entry encoding="base64">XDxNRVRSSUNfS0VZXD4=</entry>
+        <entry encoding="base64">XDxnZXRfbW9kZWxfc2l6ZXNcPg==</entry>
+        <entry encoding="base64">XDxfX2xpc3Rfam9ic1w+</entry>
+        <entry encoding="base64">XDxsb2dfc3RyZWFtc1w+</entry>
+        <entry encoding="base64">XDxzdHJlYW1zXD4=</entry>
+        <entry encoding="base64">XDxfX2ZldGNoX3N0cmVhbXNcPg==</entry>
         <entry encoding="base64">XDxldmVudHNcPg==</entry>
       </history-search>
       <history-cmd>
