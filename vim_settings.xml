@@ -113,12 +113,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1538556656436">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="115" column="11" />
-        <mark key="]" line="115" column="16" />
-        <mark key="^" line="115" column="16" />
-        <mark key="." line="115" column="16" />
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1538559264564">
+        <mark key="'" line="100" column="4" />
+        <mark key="[" line="132" column="22" />
+        <mark key="]" line="132" column="22" />
+        <mark key="^" line="132" column="19" />
+        <mark key="." line="132" column="22" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appnexus.t" timestamp="1522145308367">
         <mark key="[" line="74" column="40" />
@@ -415,11 +415,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1538554717696">
+      <file name="/code.py" timestamp="1538559517535">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="3" column="14" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -482,6 +482,9 @@
         <mark key="]" line="471" column="17" />
         <mark key="^" line="471" column="17" />
         <mark key="." line="471" column="17" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1439995966/builtins.py" timestamp="1538558184358">
+        <mark key="'" line="334" column="52" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1527506023902">
         <mark key="'" line="71" column="16" />
@@ -866,11 +869,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538556534293">
-        <mark key="'" line="34" column="34" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="7" />
-        <mark key="." line="29" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538559056087">
+        <mark key="'" line="31" column="34" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="25" column="11" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_line.t" timestamp="1522144491196">
         <mark key="[" line="131" column="34" />
@@ -928,10 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9203" column="3" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" />
-      <jump line="21" column="33" filename="/code.py" />
-      <jump line="20" column="21" filename="/code.py" />
-      <jump line="27" column="24" filename="/code.py" />
       <jump line="18" column="21" filename="/code.py" />
       <jump line="431" column="17" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="463" column="62" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
@@ -1010,12 +1010,9 @@
       <jump line="1262" column="32" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/functional/pipeline.py" />
       <jump line="82" column="29" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="87" column="73" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="102" column="75" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="20" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="101" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="22" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="31" column="18" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="100" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="99" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="118" column="8" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="126" column="83" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
@@ -1028,6 +1025,13 @@
       <jump line="57" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="79" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="1260" column="30" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/functional/pipeline.py" />
+      <jump line="4677" column="6" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1439995966/builtins.py" />
+      <jump line="5746" column="36" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1439995966/builtins.py" />
+      <jump line="334" column="52" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1439995966/builtins.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="23" column="10" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="102" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="100" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1040,12 +1044,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>seq(stream_names).grouped(100).flat_map(lambda s: boto3.client('logs').filter_log_events(
-        logGroupName=log_group_name,
-        logStreamNames=s,
-        filterPattern='?&quot;the average negative log likelihood on&quot; ?&quot;the auPR is&quot; ?&quot;the auROC is&quot;',
-        interleaved=True
-    )['events']).take(len(stream_names)).list()</text>
+        <text encoding="base64">ICs9IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1060,26 +1059,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text encoding="base64">ICs9IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfbW9kZWxfc2l6ZXNcPg==</text>
+        <text encoding="base64">XDxfX2ZldGNoX2V2ZW50c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>seq(stream_names).grouped(100).flat_map(lambda s: boto3.client('logs').filter_log_events(
-        logGroupName=log_group_name,
-        logStreamNames=s,
-        filterPattern='?&quot;the average negative log likelihood on&quot; ?&quot;the auPR is&quot; ?&quot;the auROC is&quot;',
-        interleaved=True
-    )['events'])</text>
+      <register name="0" type="2">
+        <text encoding="base64">aG9nZS5hcHBlbmQoeydmb28nOiAxfSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>seq(stream_names).grouped(100).flat_map(lambda s: boto3.client('logs').filter_log_events(
-        logGroupName=log_group_name,
-        logStreamNames=s,
-        filterPattern='?&quot;the average negative log likelihood on&quot; ?&quot;the auPR is&quot; ?&quot;the auROC is&quot;',
-        interleaved=True
-    )['events']).take(len(stream_names)).list()</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KGV2ZW50cykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1100,40 +1089,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBob2dlID0gbGlzdChzZXEoWzEsIDIsIDMsIDQsIDUsIDYsIDcsIDhdKS5ncm91cGVkKDMpLmZsYXRfbWFwKGxhbWJkYSBsOiBsKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9vICs9IDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9vID0gW10K</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIAo=</text>
+        <text encoding="base64">cHJpbnQoaG9nZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dHJ5OgogICAgaG9nZSA9IGxpc3Qoc2VxKFsxLCAyLCAzLCA0LCA1LCA2LCA3LCA4XSkuZ3JvdXBlZCgzKS5mbGF0X21hcChsYW1iZGEgbDogbCkpCmV4Y2VwdCBSdW50aW1lRXJyb3I6CiAgICBwcmludCh0eXBlKGUpKQogICAgcHJpbnQoZSkKICAgIHByaW50KGUudmFsdWUpCiAgICBwYXNzCnByaW50KGhvZ2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgIHByaW50KHN0cmVhbV9uYW1lcykK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfbW9kZWxfc2l6ZXNcPg==</last-search>
+      <last-search encoding="base64">XDxfX2ZldGNoX2V2ZW50c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfbW9kZWxfc2l6ZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfX2ZldGNoX2V2ZW50c1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1214,11 +1203,13 @@
         <entry encoding="base64">XDxncm91cGVkXD4=</entry>
         <entry encoding="base64">XDxsb2dzXD4=</entry>
         <entry encoding="base64">XDxzdHJlYW1fbmFtZXNcPg==</entry>
-        <entry encoding="base64">XDxldmVudHNcPg==</entry>
-        <entry encoding="base64">XDxfX2ZldGNoX2V2ZW50c1w+</entry>
         <entry encoding="base64">XDxqb2JzXD4=</entry>
         <entry encoding="base64">XDxfX2V4dHJhY3Rfam9iX2lkX2Zyb21fczNfcGF0aFw+</entry>
         <entry encoding="base64">XDxnZXRfbW9kZWxfc2l6ZXNcPg==</entry>
+        <entry encoding="base64">XDxTdG9wSXRlcmF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxldmVudHNcPg==</entry>
+        <entry encoding="base64">XDxpdGVyXD4=</entry>
+        <entry encoding="base64">XDxfX2ZldGNoX2V2ZW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
