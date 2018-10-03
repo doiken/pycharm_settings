@@ -113,12 +113,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1538554693301">
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1538556656436">
         <mark key="'" line="79" column="0" />
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="24" column="16" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="24" column="10" />
+        <mark key="[" line="115" column="11" />
+        <mark key="]" line="115" column="16" />
+        <mark key="^" line="115" column="16" />
+        <mark key="." line="115" column="16" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appnexus.t" timestamp="1522145308367">
         <mark key="[" line="74" column="40" />
@@ -153,12 +153,6 @@
       <file name="/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pprint.py" timestamp="1538468841892" />
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1527505947743">
         <mark key="'" line="54" column="11" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" timestamp="1529632242633">
-        <mark key="'" line="38" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="122" column="3" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/gitlab.coffee" timestamp="1526020669438">
         <mark key="'" line="40" column="5" />
@@ -340,12 +334,6 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1531204518697">
-        <mark key="'" line="399" column="13" />
-        <mark key="[" line="400" column="4" />
-        <mark key="]" line="400" column="17" />
-        <mark key="." line="400" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl/Load.pm" timestamp="1530071997918">
         <mark key="'" line="41" column="8" />
       </file>
@@ -445,12 +433,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="25" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" timestamp="1531274013647">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="42" column="50" />
-        <mark key="." line="42" column="34" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp.t" timestamp="1522230124266">
         <mark key="[" line="37" column="21" />
         <mark key="]" line="37" column="23" />
@@ -489,12 +471,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1531111671409">
         <mark key="'" line="76" column="12" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1531195306350">
-        <mark key="'" line="336" column="4" />
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/logs.py" timestamp="1537414674158">
         <mark key="'" line="122" column="19" />
@@ -607,12 +583,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/prediction_filtered_candidates.t" timestamp="1531119604544">
-        <mark key="'" line="136" column="53" />
-        <mark key="[" line="149" column="33" />
-        <mark key="]" line="149" column="33" />
-        <mark key="." line="149" column="33" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/DBoost.pm" timestamp="1529042090186">
         <mark key="'" line="16" column="8" />
@@ -799,12 +769,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" timestamp="1526441225894">
         <mark key="'" line="50" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPCVRPercentilesEstimation.pm" timestamp="1531201034038">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="14" />
-        <mark key="]" line="42" column="15" />
-        <mark key="." line="42" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fout/templates/home/nn/.bashrc" timestamp="1530507868195">
         <mark key="'" line="55" column="0" />
       </file>
@@ -902,11 +866,11 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538555634148">
-        <mark key="'" line="35" column="34" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1538556534293">
+        <mark key="'" line="34" column="34" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_line.t" timestamp="1522144491196">
         <mark key="[" line="131" column="34" />
@@ -922,12 +886,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1529632402089">
         <mark key="'" line="28" column="28" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1531272521601">
-        <mark key="'" line="106" column="88" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" timestamp="1527215451892">
         <mark key="'" line="63" column="11" />
@@ -1081,8 +1039,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoc2VxKFsxLCAyLCAzLCA0LCA1LCA2LCA3LCA4XSkuZ3JvdXBlZCgzKS5mbGF0X21hcChsYW1iZGEgbDogbCkubGVuKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>seq(stream_names).grouped(100).flat_map(lambda s: boto3.client('logs').filter_log_events(
+        logGroupName=log_group_name,
+        logStreamNames=s,
+        filterPattern='?&quot;the average negative log likelihood on&quot; ?&quot;the auPR is&quot; ?&quot;the auROC is&quot;',
+        interleaved=True
+    )['events']).take(len(stream_names)).list()</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1097,16 +1060,26 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>.flat_map(lambda l: l)</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfbW9kZWxfc2l6ZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxpc3QgPSBzZXEoWzEsIDIsIDMsIDQsIDUsIDYsIDcsIDhdKS5ncm91cGVkKDMpLmZsYXRfbWFwKGxhbWJkYSBsOiBsKS5sZW4oKQo=</text>
+      <register name="0" type="4">
+        <text>seq(stream_names).grouped(100).flat_map(lambda s: boto3.client('logs').filter_log_events(
+        logGroupName=log_group_name,
+        logStreamNames=s,
+        filterPattern='?&quot;the average negative log likelihood on&quot; ?&quot;the auPR is&quot; ?&quot;the auROC is&quot;',
+        interleaved=True
+    )['events'])</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoc2VxKFsxLCAyLCAzLCA0LCA1LCA2LCA3LCA4XSkuZ3JvdXBlZCgzKS5mbGF0X21hcChsYW1iZGEgbDogbCkubGVuKCkpCg==</text>
+      <register name="1" type="4">
+        <text>seq(stream_names).grouped(100).flat_map(lambda s: boto3.client('logs').filter_log_events(
+        logGroupName=log_group_name,
+        logStreamNames=s,
+        filterPattern='?&quot;the average negative log likelihood on&quot; ?&quot;the auPR is&quot; ?&quot;the auROC is&quot;',
+        interleaved=True
+    )['events']).take(len(stream_names)).list()</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1127,31 +1100,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBob2dlID0gbGlzdChzZXEoWzEsIDIsIDMsIDQsIDUsIDYsIDcsIDhdKS5ncm91cGVkKDMpLmZsYXRfbWFwKGxhbWJkYSBsOiBsKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9vICs9IDE7Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9vID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2F0Y2g6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdiZWZvcmUgb3V0cHV0X3BhdGgnKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdiZWZvcmUgbWV0cmljc19kZicpCg==</text>
+        <text encoding="base64">ZXhjZXB0Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
