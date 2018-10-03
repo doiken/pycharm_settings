@@ -45,8 +45,8 @@
       <file name="$FOUT_HOME$/t/fout/model/adgroup-isthirdparty.t" timestamp="1531120798947">
         <mark key="'" line="36" column="72" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/tuner.py" timestamp="1538377598479">
-        <mark key="'" line="224" column="26" />
+      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/tuner.py" timestamp="1538530706224">
+        <mark key="'" line="246" column="65" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/UnionPrediction.pm" timestamp="1529483578880">
         <mark key="[" line="0" column="31" />
@@ -411,11 +411,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1538474326545">
+      <file name="/code.py" timestamp="1538530673027">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-        <mark key="^" line="10" column="10" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -645,8 +645,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1538027404838">
-        <mark key="'" line="191" column="11" />
+      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1538530600342">
+        <mark key="'" line="629" column="47" />
         <mark key="[" line="160" column="35" />
         <mark key="]" line="160" column="45" />
       </file>
@@ -926,8 +926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="20" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="306" column="21" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="804" column="12" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
       <jump line="95" column="4" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/logs.py" />
       <jump line="9" column="14" filename="/code.py" />
@@ -1026,6 +1024,8 @@
       <jump line="21" column="23" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="77" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="22" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="246" column="65" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/tuner.py" />
+      <jump line="629" column="47" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
