@@ -415,11 +415,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1549525880219">
+      <file name="/code.py" timestamp="1549528943593">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="13" column="5" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -1043,8 +1043,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGF0dGVybiA9ICJhbGwoXHRbXlx0XSope3t7fX19Ii5mb3JtYXQobnVtKQo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1059,7 +1059,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>num</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX21zZzJtZXRyaWNzXD4=</text>
