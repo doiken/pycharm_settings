@@ -107,12 +107,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1549526482426">
-        <mark key="'" line="81" column="59" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1549528046786">
+        <mark key="'" line="78" column="4" />
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="80" column="26" />
+        <mark key="." line="80" column="26" />
+        <mark key="^" line="80" column="26" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appnexus.t" timestamp="1522145308367">
         <mark key="[" line="74" column="40" />
@@ -932,8 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="9" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
-      <jump line="153" column="23" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
       <jump line="182" column="49" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="184" column="37" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="191" column="11" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
@@ -943,7 +941,6 @@
       <jump line="3" column="17" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="52" column="13" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="51" column="33" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="78" column="20" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="61" column="64" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="39" column="25" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="46" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
@@ -977,7 +974,6 @@
       <jump line="49" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="986" column="22" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/frame.py" />
       <jump line="40" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="42" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="138" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="111" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="19" column="125" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -1030,8 +1026,12 @@
       <jump line="74" column="15" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="75" column="26" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="37" column="19" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="81" column="59" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="42" column="19" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="37" column="62" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1043,8 +1043,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>log の仕様が変わり ^all と書かれた列にまとめて出力される</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGF0dGVybiA9ICJhbGwoXHRbXlx0XSope3t7fX19Ii5mb3JtYXQobnVtKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1059,16 +1059,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>log の仕様が変わり ^all と書かれた列にまとめて出力される</text>
+        <text>num</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNRVRSSUNfS0VZXD4=</text>
+        <text encoding="base64">XDxfX21zZzJtZXRyaWNzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBsb2cg44Gu5LuV5qeY44GM5aSJ44KP44KKIF5hbGwg44Go5pu444GL44KM44Gf5YiX44Gr44G+44Go44KB44Gm5Ye65Yqb44GV44KM44KLCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGF0dGVybiA9ICJhbGwoXHRbXlx0XSope3t7fX19Ii5mb3JtYXQobnVtKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1089,40 +1089,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgnYXVQUicsICdhdVBSJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICgnYXVQUicsICdhdVBSJyksCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZWFybmluZ19yYXRlXwo=</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdsYW1iZGFfMSc6IENvbnRpbnVvdXNQYXJhbWV0ZXIoMCwgMS4wKSwK</text>
+        <text encoding="base64">ICAgICAgICBsZWFybmluZ19yYXRlXwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJyIjogIjAuMSIsICAgICAgICAgICMgbGVhcm5pbmcgcmF0ZQo=</text>
+        <text encoding="base64">ICAgICdsYW1iZGFfMSc6IENvbnRpbnVvdXNQYXJhbWV0ZXIoMCwgMS4wKSwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICJyIjogIjAuMSIsICAgICAgICAgICMgbGVhcm5pbmcgcmF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJhbHBoYSI6ICIwLjA2IiwKICAgICJiZXRhIjogIjAuMSIsCiAgICAibGFtYmRhXzEiOiAiMS4xIiwKICAgICJsYW1iZGFfMiI6ICIwLjAiLAo=</text>
+        <text encoding="base64">ICAgICJyIjogIjAuMSIsICAgICAgICAgICMgbGVhcm5pbmcgcmF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNRVRSSUNfS0VZXD4=</last-search>
+      <last-search encoding="base64">XDxfX21zZzJtZXRyaWNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNRVRSSUNfS0VZXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfX21zZzJtZXRyaWNzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1156,6 +1156,7 @@
         <entry encoding="base64">XDxtZXRyaWNfZGVmaW5pdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxPcmRlcmVkRGljdFw+</entry>
         <entry encoding="base64">XDxNRVRSSUNfS0VZXD4=</entry>
+        <entry encoding="base64">XDxfX21zZzJtZXRyaWNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
