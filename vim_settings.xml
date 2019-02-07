@@ -411,11 +411,10 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1549423866820">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="49" />
-        <mark key="^" line="9" column="49" />
-        <mark key="." line="9" column="49" />
+      <file name="/code.py" timestamp="1549511964319">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -643,8 +642,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1538530600342">
-        <mark key="'" line="629" column="47" />
+      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" timestamp="1549511508094">
+        <mark key="'" line="160" column="48" />
         <mark key="[" line="160" column="35" />
         <mark key="]" line="160" column="45" />
       </file>
@@ -928,7 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="811" column="82" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/session.py" />
       <jump line="25" column="136" filename="/code.py" />
       <jump line="23" column="16" filename="/code.py" />
       <jump line="8" column="84" filename="/code.py" />
@@ -936,7 +934,6 @@
       <jump line="145" column="47" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
       <jump line="152" column="9" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
       <jump line="153" column="23" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
-      <jump line="160" column="26" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="182" column="49" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="184" column="37" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="191" column="11" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
@@ -1028,6 +1025,8 @@
       <jump line="41" column="38" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="5" column="6" filename="/code.py" />
       <jump line="4" column="0" filename="/code.py" />
+      <jump line="183" column="45" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
+      <jump line="160" column="48" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1040,7 +1039,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aF9wYXJhbXMgPSB7CiAgICAqKkhZUEVSUEFSQU1FVEVSUywKICAgICdmYWN0b3InOiAnMzAnLAogICAgJzJuZGZ0cmxhJzogJzAuMDUnLAogICAgJzJuZGZ0cmxiJzogJzAuMScsCiAgICAnMm5kZnRybGwxJzogJzAuOTUnLAogICAgJzJuZGZ0cmxsMic6ICcwLjAnLAp9CmhfcGFyYW1zLnBvcCgnZmllbGQnKQplc3RpbWF0b3IuaHlwZXJwYXJhbV9kaWN0ID0gaF9wYXJhbXMK</text>
+        <text encoding="base64">ICAgICd0cmFpbic6ICdzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuL3t9L2Jhc2VsaW5lL3RyYWluJy5mb3JtCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1055,16 +1054,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>ef19d1ea7c2d12e0ca6c5190c0522fd5b045aaff</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIWVBFUlBBUkFNRVRFUlNcPg==</text>
+        <text encoding="base64">XDxqb2JfbmFtZVw+</text>
       </register>
       <register name="0" type="4">
         <text>HYPERPARAMETERS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aF9wYXJhbXMgPSB7CiAgICAqKkhZUEVSUEFSQU1FVEVSUywKICAgICdmYWN0b3InOiAnMzAnLAogICAgJzJuZGZ0cmxhJzogJzAuMDUnLAogICAgJzJuZGZ0cmxiJzogJzAuMScsCiAgICAnMm5kZnRybGwxJzogJzAuOTUnLAogICAgJzJuZGZ0cmxsMic6ICcwLjAnLAp9CmhfcGFyYW1zLnBvcCgnZmllbGQnKQplc3RpbWF0b3IuaHlwZXJwYXJhbV9kaWN0ID0gaF9wYXJhbXMK</text>
+        <text encoding="base64">ICAgICd0cmFpbic6ICdzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuL3t9L2Jhc2VsaW5lL3RyYWluJy5mb3JtCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1084,41 +1083,42 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICdmaWVsZCc6ICAgICcxNScsCg==</text>
+      <register name="2" type="4">
+        <text>at(EXPERIMENT_NAME),
+    'test': 's3://sagemaker-fout-fm-sandbox/doiken/{}/baseline/test'.format(EXPERIMENT_NAME)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aF9wYXJhbXMgPSB7CiAgICAqKkhZUEVSUEFSQU1FVEVSUywKICAgICdmYWN0b3InOiAnMzAnLAogICAgJzJuZGZ0cmxhJzogJzAuMDUnLAogICAgJzJuZGZ0cmxiJzogJzAuMScsCiAgICAnMm5kZnRybGwxJzogJzAuOTUnLAogICAgJzJuZGZ0cmxsMic6ICcwLjAnLAp9CmhfcGFyYW1zLnBvcCgnZmllbGQnKQplc3RpbWF0b3IuaHlwZXJwYXJhbV9kaWN0ID0gaF9wYXJhbXMK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdmaWVsZCc6ICAgICcxNScsCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4ocykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4ocykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV2ZW50cykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIWVBFUlBBUkFNRVRFUlNcPg==</last-search>
+      <last-search encoding="base64">XDxqb2JfbmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIWVBFUlBBUkFNRVRFUlNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxqb2JfbmFtZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1135,7 +1135,6 @@
         <entry encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</entry>
         <entry encoding="base64">XDxfX2xpc3Rfam9ic1w+</entry>
         <entry encoding="base64">XDxncm91cGVkXD4=</entry>
-        <entry encoding="base64">XDxsb2dzXD4=</entry>
         <entry encoding="base64">XDxzdHJlYW1fbmFtZXNcPg==</entry>
         <entry encoding="base64">XDxqb2JzXD4=</entry>
         <entry encoding="base64">XDxfX2V4dHJhY3Rfam9iX2lkX2Zyb21fczNfcGF0aFw+</entry>
@@ -1147,6 +1146,9 @@
         <entry encoding="base64">XDxpdGVyYWJsZVw+</entry>
         <entry encoding="base64">XDxQaXBlQ29ubmVjdGlvblw+</entry>
         <entry encoding="base64">XDxIWVBFUlBBUkFNRVRFUlNcPg==</entry>
+        <entry encoding="base64">XDx3YWl0XD4=</entry>
+        <entry encoding="base64">XDxsb2dzXD4=</entry>
+        <entry encoding="base64">XDxqb2JfbmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
