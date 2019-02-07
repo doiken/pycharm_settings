@@ -107,9 +107,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1546855260936">
-        <mark key="'" line="41" column="38" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1549526482426">
+        <mark key="'" line="81" column="59" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appnexus.t" timestamp="1522145308367">
         <mark key="[" line="74" column="40" />
@@ -165,6 +168,7 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1549525744273" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1531191378103">
         <mark key="'" line="249" column="4" />
       </file>
@@ -411,11 +415,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1549523462999">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="17" column="13" />
-        <mark key="." line="17" column="13" />
-        <mark key="^" line="17" column="13" />
+      <file name="/code.py" timestamp="1549525880219">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -459,7 +463,7 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/utils.py" timestamp="1537411625407">
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/utils.py" timestamp="1549524992452">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -928,10 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="16" filename="/code.py" />
-      <jump line="8" column="84" filename="/code.py" />
-      <jump line="490" column="36" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="145" column="47" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
       <jump line="152" column="9" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
       <jump line="153" column="23" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/slackclient/client.py" />
       <jump line="182" column="49" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
@@ -955,11 +955,9 @@
       <jump line="0" column="54" filename="/code.py" />
       <jump line="83" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="115" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="81" column="16" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="85" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="84" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="76" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="94" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="88" column="17" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="1" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
@@ -1028,6 +1026,12 @@
       <jump line="183" column="45" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="160" column="48" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
       <jump line="193" column="13" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/tuner.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="74" column="15" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="75" column="26" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="37" column="19" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="81" column="59" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1040,7 +1044,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>all#0110.019658610183423728#0115.553017667961797#0110.002169261219714887#011#0110.7599380741640767#01125337440#01179832#01125257608</text>
+        <text>log の仕様が変わり ^all と書かれた列にまとめて出力される</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1055,23 +1059,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>all#0110.019658610183423728#0115.553017667961797#0110.002169261219714887#011#0110.7599380741640767#01125337440#01179832#01125257608</text>
+        <text>log の仕様が変わり ^all と書かれた列にまとめて出力される</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXRyaWNfZGVmaW5pdGlvbnNcPg==</text>
+        <text encoding="base64">XDxNRVRSSUNfS0VZXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-    **HYPERPARAMETERS,
-    'factor': '30',
-    '2ndftrla': '0.05',
-    '2ndftrlb': '0.1',
-    '2ndftrll1': '0.95',
-    '2ndftrll2': '0.0',
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBsb2cg44Gu5LuV5qeY44GM5aSJ44KP44KKIF5hbGwg44Go5pu444GL44KM44Gf5YiX44Gr44G+44Go44KB44Gm5Ye65Yqb44GV44KM44KLCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXN0aW1hdG9yLmh5cGVycGFyYW1fZGljdCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1091,68 +1088,41 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>{
-    &quot;s&quot;: &quot;5&quot;,
-    &quot;p&quot;: &quot;ftrl&quot;,
-    &quot;alpha&quot;: &quot;0.002&quot;,
-    &quot;beta&quot;: &quot;0.8&quot;,
-    &quot;lambda_1&quot;: &quot;0.001&quot;,
-    &quot;lambda_2&quot;: &quot;1.0&quot;,
-    &quot;r&quot;: &quot;0.1&quot;,
-    &quot;nthread&quot;: &quot;2&quot;,
-    &quot;k&quot;: &quot;2&quot;,
-    &quot;e&quot;: &quot;2&quot;,
-    &quot;sigmoid&quot;: &quot;&quot;
-
-
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICgnYXVQUicsICdhdVBSJyksCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-    &quot;s&quot;: &quot;5&quot;,            # ffm model
-    &quot;p&quot;: &quot;ftrl&quot;,         # optimization method
-    &quot;alpha&quot;: &quot;0.06&quot;,
-    &quot;beta&quot;: &quot;0.1&quot;,
-    &quot;lambda_1&quot;: &quot;1.1&quot;,
-    &quot;lambda_2&quot;: &quot;0.0&quot;,
-    &quot;r&quot;: &quot;0.1&quot;,          # learning rate
-    &quot;nthread&quot;: &quot;15&quot;,     # thread number
-    &quot;k&quot;: &quot;2&quot;,            # number of latent factor
-    &quot;e&quot;: &quot;2&quot;,            # number of epoch
-    &quot;sigmoid&quot;: &quot;&quot;        # Converting output result to 0 ~ 1(evaluation)
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdmYWN0b3InOiAnMzAnLAogICAgJzJuZGZ0cmxhJzogJzAuMDUnLAogICAgJzJuZGZ0cmxiJzogJzAuMScsCiAgICAnMm5kZnRybGwxJzogJzAuOTUnLAogICAgJzJuZGZ0cmxsMic6ICcwLjAnLAo=</text>
+        <text encoding="base64">ICAgICAgICBsZWFybmluZ19yYXRlXwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICoqSFlQRVJQQVJBTUVURVJTLAo=</text>
+        <text encoding="base64">ICAgICdsYW1iZGFfMSc6IENvbnRpbnVvdXNQYXJhbWV0ZXIoMCwgMS4wKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICd0cmFpbic6ICdzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuL3t9L2Jhc2VsaW5lL3RyYWluJy5mb3JtCg==</text>
+        <text encoding="base64">ICAgICJyIjogIjAuMSIsICAgICAgICAgICMgbGVhcm5pbmcgcmF0ZQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>at(EXPERIMENT_NAME),
-    'test': 's3://sagemaker-fout-fm-sandbox/doiken/{}/baseline/test'.format(EXPERIMENT_NAME)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJyIjogIjAuMSIsICAgICAgICAgICMgbGVhcm5pbmcgcmF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aF9wYXJhbXMgPSB7CiAgICAqKkhZUEVSUEFSQU1FVEVSUywKICAgICdmYWN0b3InOiAnMzAnLAogICAgJzJuZGZ0cmxhJzogJzAuMDUnLAogICAgJzJuZGZ0cmxiJzogJzAuMScsCiAgICAnMm5kZnRybGwxJzogJzAuOTUnLAogICAgJzJuZGZ0cmxsMic6ICcwLjAnLAp9CmhfcGFyYW1zLnBvcCgnZmllbGQnKQplc3RpbWF0b3IuaHlwZXJwYXJhbV9kaWN0ID0gaF9wYXJhbXMK</text>
+        <text encoding="base64">ICAgICJhbHBoYSI6ICIwLjA2IiwKICAgICJiZXRhIjogIjAuMSIsCiAgICAibGFtYmRhXzEiOiAiMS4xIiwKICAgICJsYW1iZGFfMiI6ICIwLjAiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXRyaWNfZGVmaW5pdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxNRVRSSUNfS0VZXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXRyaWNfZGVmaW5pdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxNRVRSSUNfS0VZXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1184,6 +1154,8 @@
         <entry encoding="base64">XDxsb2dzXD4=</entry>
         <entry encoding="base64">XDxqb2JfbmFtZVw+</entry>
         <entry encoding="base64">XDxtZXRyaWNfZGVmaW5pdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxPcmRlcmVkRGljdFw+</entry>
+        <entry encoding="base64">XDxNRVRSSUNfS0VZXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
