@@ -411,10 +411,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1549511964319">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/code.py" timestamp="1549518097514">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -1039,7 +1040,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICd0cmFpbic6ICdzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuL3t9L2Jhc2VsaW5lL3RyYWluJy5mb3JtCg==</text>
+        <text encoding="base64">ZXN0aW1hdG9yLmh5cGVycGFyYW1fZGljdCA9IAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1054,16 +1055,23 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JfbmFtZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>HYPERPARAMETERS</text>
+        <text>{
+    **HYPERPARAMETERS,
+    'factor': '30',
+    '2ndftrla': '0.05',
+    '2ndftrlb': '0.1',
+    '2ndftrll1': '0.95',
+    '2ndftrll2': '0.0',
+}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICd0cmFpbic6ICdzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuL3t9L2Jhc2VsaW5lL3RyYWluJy5mb3JtCg==</text>
+        <text encoding="base64">ZXN0aW1hdG9yLmh5cGVycGFyYW1fZGljdCA9IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1084,32 +1092,58 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>at(EXPERIMENT_NAME),
-    'test': 's3://sagemaker-fout-fm-sandbox/doiken/{}/baseline/test'.format(EXPERIMENT_NAME)</text>
+        <text>{
+    &quot;s&quot;: &quot;5&quot;,
+    &quot;p&quot;: &quot;ftrl&quot;,
+    &quot;alpha&quot;: &quot;0.002&quot;,
+    &quot;beta&quot;: &quot;0.8&quot;,
+    &quot;lambda_1&quot;: &quot;0.001&quot;,
+    &quot;lambda_2&quot;: &quot;1.0&quot;,
+    &quot;r&quot;: &quot;0.1&quot;,
+    &quot;nthread&quot;: &quot;2&quot;,
+    &quot;k&quot;: &quot;2&quot;,
+    &quot;e&quot;: &quot;2&quot;,
+    &quot;sigmoid&quot;: &quot;&quot;
+
+
+}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aF9wYXJhbXMgPSB7CiAgICAqKkhZUEVSUEFSQU1FVEVSUywKICAgICdmYWN0b3InOiAnMzAnLAogICAgJzJuZGZ0cmxhJzogJzAuMDUnLAogICAgJzJuZGZ0cmxiJzogJzAuMScsCiAgICAnMm5kZnRybGwxJzogJzAuOTUnLAogICAgJzJuZGZ0cmxsMic6ICcwLjAnLAp9CmhfcGFyYW1zLnBvcCgnZmllbGQnKQplc3RpbWF0b3IuaHlwZXJwYXJhbV9kaWN0ID0gaF9wYXJhbXMK</text>
+      <register name="3" type="4">
+        <text>{
+    &quot;s&quot;: &quot;5&quot;,            # ffm model
+    &quot;p&quot;: &quot;ftrl&quot;,         # optimization method
+    &quot;alpha&quot;: &quot;0.06&quot;,
+    &quot;beta&quot;: &quot;0.1&quot;,
+    &quot;lambda_1&quot;: &quot;1.1&quot;,
+    &quot;lambda_2&quot;: &quot;0.0&quot;,
+    &quot;r&quot;: &quot;0.1&quot;,          # learning rate
+    &quot;nthread&quot;: &quot;15&quot;,     # thread number
+    &quot;k&quot;: &quot;2&quot;,            # number of latent factor
+    &quot;e&quot;: &quot;2&quot;,            # number of epoch
+    &quot;sigmoid&quot;: &quot;&quot;        # Converting output result to 0 ~ 1(evaluation)
+}</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdmaWVsZCc6ICAgICcxNScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdmYWN0b3InOiAnMzAnLAogICAgJzJuZGZ0cmxhJzogJzAuMDUnLAogICAgJzJuZGZ0cmxiJzogJzAuMScsCiAgICAnMm5kZnRybGwxJzogJzAuOTUnLAogICAgJzJuZGZ0cmxsMic6ICcwLjAnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICoqSFlQRVJQQVJBTUVURVJTLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICd0cmFpbic6ICdzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuL3t9L2Jhc2VsaW5lL3RyYWluJy5mb3JtCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4ocykpCg==</text>
+      <register name="8" type="4">
+        <text>at(EXPERIMENT_NAME),
+    'test': 's3://sagemaker-fout-fm-sandbox/doiken/{}/baseline/test'.format(EXPERIMENT_NAME)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzKQo=</text>
+        <text encoding="base64">aF9wYXJhbXMgPSB7CiAgICAqKkhZUEVSUEFSQU1FVEVSUywKICAgICdmYWN0b3InOiAnMzAnLAogICAgJzJuZGZ0cmxhJzogJzAuMDUnLAogICAgJzJuZGZ0cmxiJzogJzAuMScsCiAgICAnMm5kZnRybGwxJzogJzAuOTUnLAogICAgJzJuZGZ0cmxsMic6ICcwLjAnLAp9CmhfcGFyYW1zLnBvcCgnZmllbGQnKQplc3RpbWF0b3IuaHlwZXJwYXJhbV9kaWN0ID0gaF9wYXJhbXMK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
