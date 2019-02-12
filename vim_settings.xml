@@ -420,11 +420,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1549949061551">
+      <file name="/code.py" timestamp="1549952634074">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="13" column="57" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -1049,7 +1049,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>十</text>
+        <text>モデルサイズは baseline が数MBに対し 3GB 前後で大きい</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1064,13 +1064,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>十</text>
+        <text>モデルサイズは baseline が数MBに対し 3GB 前後で大きい</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaXN0X3RyYWluaW5nX2pvYnNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICcybmRmdHJsYSc6ICcwLjA1JywKICAgICcybmRmdHJsYic6ICcwLjEnLAogICAgJzJuZGZ0cmxsMSc6ICcwLjk1JywKICAgICcybmRmdHJsbDInOiAnMC4wJywK</text>
+      <register name="0" type="4">
+        <text>{data_suffix}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
