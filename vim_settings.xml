@@ -107,12 +107,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1549935670745">
+      <file name="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" timestamp="1549939098945">
         <mark key="'" line="41" column="29" />
-        <mark key="[" line="50" column="60" />
-        <mark key="]" line="50" column="60" />
-        <mark key="." line="50" column="60" />
-        <mark key="^" line="50" column="63" />
+        <mark key="[" line="136" column="47" />
+        <mark key="]" line="137" column="17" />
+        <mark key="." line="137" column="17" />
+        <mark key="^" line="137" column="17" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appnexus.t" timestamp="1522145308367">
         <mark key="[" line="74" column="40" />
@@ -420,11 +420,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1549614790578">
+      <file name="/code.py" timestamp="1549939102394">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="44" />
-        <mark key="." line="1" column="44" />
-        <mark key="^" line="1" column="44" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="^" line="3" column="40" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -1049,7 +1049,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, ''</text>
+        <text encoding="base64">bGVuKGpvYnMpIDwgbGVuKGpvYnMpIDwgMTAwIG9yIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1064,16 +1064,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>, ''</text>
+        <text encoding="base64">bGVuKGpvYnMpIDwgbGVuKGpvYnMpIDwgMTAwIG9yIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdhbHBoYSc6ICBDb250aW51b3VzUGFyYW1ldGVyKDAuMDAxLCAxLjApLAogICAgJ2JldGEnOiAgQ29udGludW91c1BhcmFtZXRlcigwLjAwMSwgMS4wKSwKICAgICdsYW1iZGFfMSc6IENvbnRpbnVvdXNQYXJhbWV0ZXIoMCwgMS4wKSwKICAgICJsYW1iZGFfMiI6IENvbnRpbnVvdXNQYXJhbWV0ZXIoMCwgMS4wKSwK</text>
+      <register name="0" type="4">
+        <text>len(jobs)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHMsIHRva2VuID0gdHJhaW5pbmdfam9icyhOb25lKQogICAgcHJpbnQocykKICAgIHMsIHRva2VuID0gdHJhaW5pbmdfam9icyh0b2tlbikKICAgIHByaW50KHMpCiAgICBzLCB0b2tlbiA9IHRyYWluaW5nX2pvYnModG9rZW4pCiAgICBwcmludChzKQogICAgcywgdG9rZW4gPSB0cmFpbmluZ19qb2JzKHRva2VuKQogICAgcHJpbnQocykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1094,31 +1094,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICMg44Gq44Gc44GL5Yid44Gj56uv44GvIE5leHRUb2tlbiDjga7jgb/muKHjgZXjgozjgabnqbrjgavjgarjgosKICAgIHMsIHRva2VuID0gdHJhaW5pbmdfam9icyhOb25lKQogICAgcHJpbnQocykKICAgIHMsIHRva2VuID0gdHJhaW5pbmdfam9icyh0b2tlbikKICAgIHByaW50KHMpCiAgICBzLCB0b2tlbiA9IHRyYWluaW5nX2pvYnModG9rZW4pCiAgICBwcmludChzKQogICAgcywgdG9rZW4gPSB0cmFpbmluZ19qb2JzKHRva2VuKQogICAgcHJpbnQocykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoImpvYiBub3QgZm91bmQiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHMpCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cue1kOaenDogCi0gMm5kZnRybHthLGwxfeOBr3R1bmluZ+WJjeWNiuOBp+aXqeOAheOBq+Wkp+OBjeOCgeOBruWApOOBq+imi+WIh+OCiuOCkuOBpOOBkeOBpuOBhOOCi+WNsOixoQotIDJuZGZ0cmxsMeOBrzAuMuS7peS4iueoi+W6puOBp+ODouODh+ODq+OCteOCpOOCuuOBr+mhleiRl+OBq+WJiuOCjOOBpuOBhOOCi+WNsOixoQoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoImpvYiBub3QgZm91bmQiKQo=</text>
+        <text encoding="base64">ICAgIHMsIHRva2VuID0gdHJhaW5pbmdfam9icyhOb25lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoImpvYiBub3QgZm91bmQiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRva2VuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBhdVBSOiAwLjAyNjE3OTU0MzI0ODM5MTQ0Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtZXRyaWMpCg==</text>
+        <text encoding="base64">ICAgIGpvaW5lZF9kZiA9IHBkLmNvbmNhdChbbWV0cmljc19kZiwgam9iX2RmW2xpc3QoKHBhcmFtcyBvciB7fSkua2V5cygpKSArIFsnRWxhcHNlZFRpbWUnXV0sIG91dHB1dF9zaXplX2RmXSwgYXhpcz0xLCBzb3J0PVRydWUsIGpvaW5fYXhlcz1bam9iX2RmLmluZGV4XSkK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
