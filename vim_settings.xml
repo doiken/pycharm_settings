@@ -420,11 +420,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1549964032300">
+      <file name="/code.py" timestamp="1550028033837">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+        <mark key="]" line="22" column="43" />
+        <mark key="^" line="22" column="43" />
+        <mark key="." line="22" column="43" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
@@ -1131,23 +1131,10 @@
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxnZXRfbWV0cmljc1w+</entry>
-        <entry encoding="base64">XDxfX2ZldGNoX3N0cmVhbXNcPg==</entry>
-        <entry encoding="base64">XDxidWNrZXRcPg==</entry>
-        <entry encoding="base64">XDxvcmllbnRcPg==</entry>
-        <entry encoding="base64">XDxqb2JfZGZcPg==</entry>
-        <entry encoding="base64">XDxncm91cGVkXD4=</entry>
-        <entry encoding="base64">XDxzdHJlYW1fbmFtZXNcPg==</entry>
-        <entry encoding="base64">XDxfX2V4dHJhY3Rfam9iX2lkX2Zyb21fczNfcGF0aFw+</entry>
-        <entry encoding="base64">XDxnZXRfbW9kZWxfc2l6ZXNcPg==</entry>
-        <entry encoding="base64">XDxTdG9wSXRlcmF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxpdGVyXD4=</entry>
-        <entry encoding="base64">XDxpdGVyYWJsZVw+</entry>
         <entry encoding="base64">XDxQaXBlQ29ubmVjdGlvblw+</entry>
         <entry encoding="base64">XDxIWVBFUlBBUkFNRVRFUlNcPg==</entry>
         <entry encoding="base64">XDx3YWl0XD4=</entry>
