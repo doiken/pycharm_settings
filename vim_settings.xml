@@ -432,10 +432,8 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1550810753234">
+      <file name="/code.py" timestamp="1550811705358">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/convert.py" timestamp="1536745403995">
         <mark key="[" line="1" column="0" />
@@ -672,8 +670,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
         <mark key="'" line="184" column="61" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1550809393513">
-        <mark key="'" line="78" column="11" />
+      <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1550811560783">
+        <mark key="'" line="58" column="76" />
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="^" line="37" column="60" />
@@ -954,8 +952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="986" column="22" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/frame.py" />
       <jump line="40" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="19" column="125" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="20" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -1054,6 +1050,8 @@
       <jump line="42" column="13" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="78" column="11" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="10" column="0" filename="/metrics.py" />
+      <jump line="57" column="4" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="58" column="76" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1084,7 +1082,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNRVRSSUNfS0VZXD4=</text>
+        <text encoding="base64">XDxqb2JfZGZcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRpb25UaW1lQWZ0ZXI9JzIwMTgtMTAtMDEnLAo=</text>
@@ -1145,9 +1143,9 @@ import importlib
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNRVRSSUNfS0VZXD4=</last-search>
+      <last-search encoding="base64">XDxqb2JfZGZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNRVRSSUNfS0VZXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxqb2JfZGZcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1167,7 +1165,6 @@ import importlib
         <entry encoding="base64">XDxfX2ZldGNoX2V2ZW50c1w+</entry>
         <entry encoding="base64">XDxfX2ZldGNoX3N0cmVhbXNcPg==</entry>
         <entry encoding="base64">XDxzdHJlYW1fbmFtZXNcPg==</entry>
-        <entry encoding="base64">XDxqb2JfZGZcPg==</entry>
         <entry encoding="base64">XDxnZXRfbWV0cmljc1w+</entry>
         <entry encoding="base64">XDxfX21zZzJtZXRyaWNzXD4=</entry>
         <entry encoding="base64">XDxmblw+</entry>
@@ -1176,6 +1173,7 @@ import importlib
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxfX2xpc3Rfam9ic1w+</entry>
         <entry encoding="base64">XDxNRVRSSUNfS0VZXD4=</entry>
+        <entry encoding="base64">XDxqb2JfZGZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
