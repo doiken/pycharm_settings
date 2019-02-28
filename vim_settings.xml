@@ -432,7 +432,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1550811705358">
+      <file name="/code.py" timestamp="1551325470426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/convert.py" timestamp="1536745403995">
@@ -1149,11 +1149,10 @@ import importlib
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2V4dHJhY3RfZmllbGRcPg==</entry>
         <entry encoding="base64">XDxqb2JzXD4=</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry encoding="base64">XDxkaWN0XD4=</entry>
