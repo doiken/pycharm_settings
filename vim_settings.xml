@@ -432,7 +432,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1551332682235">
+      <file name="/code.py" timestamp="1551334221683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="84" />
         <mark key="." line="0" column="84" />
@@ -672,10 +672,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
         <mark key="'" line="184" column="61" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1550811560783">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1551334205919">
+        <mark key="[" line="196" column="36" />
+        <mark key="]" line="196" column="36" />
+        <mark key="." line="196" column="36" />
+        <mark key="^" line="196" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
@@ -1064,7 +1065,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">LyAxMDI0IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1079,7 +1080,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">LyAxMDI0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JfZGZcPg==</text>
