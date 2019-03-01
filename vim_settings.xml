@@ -432,10 +432,10 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1551412567379">
+      <file name="/code.py" timestamp="1551417416446">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="84" />
-        <mark key="." line="0" column="84" />
+        <mark key="]" line="1" column="73" />
+        <mark key="." line="1" column="73" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/convert.py" timestamp="1536745403995">
         <mark key="[" line="1" column="0" />
@@ -1065,7 +1065,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyAxMDI0IA==</text>
+        <text>s',</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1080,7 +1080,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LyAxMDI0IA==</text>
+        <text>s',</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JfZGZcPg==</text>
