@@ -432,10 +432,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1551420641001">
+      <file name="/code.py" timestamp="1551431309836">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="73" />
-        <mark key="." line="4" column="73" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/convert.py" timestamp="1536745403995">
         <mark key="[" line="1" column="0" />
@@ -953,7 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="19" column="125" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="20" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="1262" column="32" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/functional/pipeline.py" />
@@ -1053,6 +1053,7 @@
       <jump line="10" column="0" filename="/metrics.py" />
       <jump line="57" column="4" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="58" column="76" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="2" column="11" filename="/code.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1065,7 +1066,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s',</text>
+        <text>ffm</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1080,19 +1081,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>s',</text>
+        <text>ffm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JfZGZcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRpb25UaW1lQWZ0ZXI9JzIwMTgtMTAtMDEnLAo=</text>
+      <register name="0" type="4">
+        <text>concat</text>
       </register>
-      <register name="1" type="4">
-        <text>import utils
-import importlib
-# importlib.reload(metrics)
-# importlib.reload(utils)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZGlzcGxheShqb2JfZGYuc29ydF92YWx1ZXMoYnk9WyJhdVBSIl0sIGFzY2VuZGluZz1GYWxzZSkpIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1113,31 +1111,34 @@ import importlib
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRpb25UaW1lQmVmb3JlPScyMDE4LTEwLTAxJywK</text>
+        <text encoding="base64">am9iX2RmLmluZGV4ID0gc2VxKGpvYl9kZi5pbmRleCkubWFwKGxhbWJkYSBuOiBuLnJlcGxhY2UoZiJ7bmFtZX0tIiwgJycpKS5saXN0KCkgICMgc2hvcnRlbiBqb2IgbmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRpb25UaW1lQWZ0ZXI9JzIwMTgtMDktMjAnLAo=</text>
+        <text encoding="base64">am9iX2RmID0gbWV0cmljcy5saXN0X2hwX2pvYnMobmFtZSwgW10sIDUpCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZSA9ICc1NjQ4MS1tb2RlbDIwLWJhc2VsaW5lLTAxJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9lc3RpbWF0b3IobnRoX2pvYik6CiAgICBiYXNlX2pvYl9uYW1lID0gJ3t9LXt9Jy5mb3JtYXQoRVhQRVJJTUVOVF9OQU1FLCBudGhfam9iKQogICAgcmV0dXJuIHNhZ2VtYWtlci5lc3RpbWF0b3IuRXN0aW1hdG9yKAogICAgICAgIGltYWdlX25hbWU9JzcyMzk0MTE5NTkzNy5ka3IuZWNyLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tL3NhZ2VtYWtlci1mb3V0LWZtOnt9Jy5mb3JtYXQoJzk3MDk2ZjcyMTIyZjhhYjZiNGM0YTkwYzljYTBhMWQ0OThjZDFjMjUnKSwKICAgICAgICByb2xlPSdhcm46YXdzOmlhbTo6NzIzOTQxMTk1OTM3OnJvbGUvQW1hem9uU2FnZU1ha2VyLUV4ZWN1dGlvblJvbGUnLAogICAgICAgIHRyYWluX3ZvbHVtZV9zaXplPTEwMCwgICMgR0IKICAgICAgICB0cmFpbl9pbnN0YW5jZV9jb3VudD0xLAogICAgICAgIHRyYWluX2luc3RhbmNlX3R5cGU9J21sLmM1LjR4bGFyZ2UnLAogICAgICAgIGlucHV0X21vZGU9J0ZpbGUnLAogICAgICAgIG91dHB1dF9wYXRoPSdzMzovL3NhZ2VtYWtlci1mb3V0LWZtLXNhbmRib3gvZG9pa2VuL3t9L2pvYnMnLmZvcm1hdChFWFBFUklNRU5UX05BTUUpLCAgIyBvdXRwdXRfcGF0aOOBr+WQhGpvYuavjuOBq2RpcmVjdG9yeeOCkuWIh+OCieOCjG91dHB1dOODleOCqeODq+ODgOOBjOeUn+aIkOOBleOCjOOCiwogICAgICAgIGh5cGVycGFyYW1ldGVycz1IWVBFUlBBUkFNRVRFUlMsICAjIOS7pemZjeOBk+OBoeOCieOBruWkieaVsOOBruOBv+WkieabtOOBleOCjOOBhuOCiwogICAgICAgIGJhc2Vfam9iX25hbWU9YmFzZV9qb2JfbmFtZSwKICAgICAgICB0YWdzPVtkaWN0KEtleT0nT3duZXInLCBWYWx1ZT0nU2NpZW5jZScpXQogICAgKQo=</text>
+        <text encoding="base64">am9iX2RmID0gbWV0cmljcy5saXN0X2hwX2pvYnMoJzU2MjU5LW1vZGVsMTYtdHVuaW5nLTAzJywgWycybmRmdHJsYScsICcybmRmdHJsYicsICcybmRmdHJsbDEnXSwgNSkKam9iX2RmLmluZGV4ID0gc2VxKGpvYl9kZi5pbmRleCkubWFwKGxhbWJkYSBuOiBuLnJlcGxhY2UoJzU2MjU5LW1vZGVsMTYtdHVuaW5nLTAzLScsICcnKSkubGlzdCgpICAjIHNob3J0ZW4gam9iIG5hbWUKZGlzcGxheShqb2JfZGYuc29ydF92YWx1ZXMoYnk9WyJhdVBSIl0sIGFzY2VuZGluZz1GYWxzZSkpIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzYWdlbWFrZXIudHVuZXIgaW1wb3J0IEludGVnZXJQYXJhbWV0ZXIsIENhdGVnb3JpY2FsUGFyYW1ldGVyLCBDb250aW51b3VzUGFyYW1ldGVyLCBIeXBlcnBhcmFtZXRlclR1bmVyCg==</text>
+      <register name="6" type="4">
+        <text>import utils
+import importlib
+# importlib.reload(metrics)
+# importlib.reload(utils)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzYWdlbWFrZXIudHVuZXIgaW1wb3J0IEludGVnZXJQYXJhbWV0ZXIsIENhdGVnb3JpY2FsUGFyYW1ldGVyLCBDb250aW51b3VzUGFyYW1ldGVyLCBIeXBlcnBhcmFtZXRlclR1bmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRpb25UaW1lQmVmb3JlPScyMDE4LTEwLTAxJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzYWdlbWFrZXIudHVuZXIgaW1wb3J0IEludGVnZXJQYXJhbWV0ZXIsIENhdGVnb3JpY2FsUGFyYW1ldGVyLCBDb250aW51b3VzUGFyYW1ldGVyLCBIeXBlcnBhcmFtZXRlclR1bmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRpb25UaW1lQWZ0ZXI9JzIwMTgtMDktMjAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JfZGYgPSBtZXRyaWNzLmxpc3Rfam9icyhlc3RpbWF0b3IuYmFzZV9qb2JfbmFtZSwgaF9yYW5nZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
