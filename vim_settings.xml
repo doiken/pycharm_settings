@@ -266,12 +266,12 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551852207625">
-        <mark key="'" line="33" column="34" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1552446989541">
+        <mark key="'" line="42" column="34" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_alter_pctr_pcvr_candidate.sql" timestamp="1531200593611">
         <mark key="[" line="0" column="99" />
@@ -433,7 +433,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1551855218807">
+      <file name="/code.py" timestamp="1552446823475">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="33" />
@@ -1067,7 +1067,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>#011</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1082,16 +1082,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>#011</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JfZGZcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>concat</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQobGVuKGRmLmluZGV4KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgMC4wMToKICAgIHByaW50KDEpCmVsc2U6CiAgICBwcmludCgyKQo=</text>
+        <text encoding="base64">cHJpbnQobGVuKGEuc3RyaXAoKSkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1112,34 +1112,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">YSA9ICIgICAgIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoMSkK</text>
+        <text encoding="base64">aWYgMC4wMToKICAgIHByaW50KDEpCmVsc2U6CiAgICBwcmludCgyKQo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGlzcGxheShqb2JfZGYuc29ydF92YWx1ZXMoYnk9WyJhdVBSIl0sIGFzY2VuZGluZz1GYWxzZSkpIAo=</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">am9iX2RmLmluZGV4ID0gc2VxKGpvYl9kZi5pbmRleCkubWFwKGxhbWJkYSBuOiBuLnJlcGxhY2UoZiJ7bmFtZX0tIiwgJycpKS5saXN0KCkgICMgc2hvcnRlbiBqb2IgbmFtZQo=</text>
+        <text encoding="base64">cHJpbnQoMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">am9iX2RmID0gbWV0cmljcy5saXN0X2hwX2pvYnMobmFtZSwgW10sIDUpCg==</text>
+        <text encoding="base64">ZGlzcGxheShqb2JfZGYuc29ydF92YWx1ZXMoYnk9WyJhdVBSIl0sIGFzY2VuZGluZz1GYWxzZSkpIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmFtZSA9ICc1NjQ4MS1tb2RlbDIwLWJhc2VsaW5lLTAxJwo=</text>
+        <text encoding="base64">am9iX2RmLmluZGV4ID0gc2VxKGpvYl9kZi5pbmRleCkubWFwKGxhbWJkYSBuOiBuLnJlcGxhY2UoZiJ7bmFtZX0tIiwgJycpKS5saXN0KCkgICMgc2hvcnRlbiBqb2IgbmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">am9iX2RmID0gbWV0cmljcy5saXN0X2hwX2pvYnMoJzU2MjU5LW1vZGVsMTYtdHVuaW5nLTAzJywgWycybmRmdHJsYScsICcybmRmdHJsYicsICcybmRmdHJsbDEnXSwgNSkKam9iX2RmLmluZGV4ID0gc2VxKGpvYl9kZi5pbmRleCkubWFwKGxhbWJkYSBuOiBuLnJlcGxhY2UoJzU2MjU5LW1vZGVsMTYtdHVuaW5nLTAzLScsICcnKSkubGlzdCgpICAjIHNob3J0ZW4gam9iIG5hbWUKZGlzcGxheShqb2JfZGYuc29ydF92YWx1ZXMoYnk9WyJhdVBSIl0sIGFzY2VuZGluZz1GYWxzZSkpIAo=</text>
+        <text encoding="base64">am9iX2RmID0gbWV0cmljcy5saXN0X2hwX2pvYnMobmFtZSwgW10sIDUpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>import utils
-import importlib
-# importlib.reload(metrics)
-# importlib.reload(utils)</text>
+      <register name="9" type="2">
+        <text encoding="base64">bmFtZSA9ICc1NjQ4MS1tb2RlbDIwLWJhc2VsaW5lLTAxJwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
