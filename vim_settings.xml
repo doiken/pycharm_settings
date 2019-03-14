@@ -267,11 +267,11 @@
         <mark key="." line="0" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1552446989541">
-        <mark key="'" line="42" column="34" />
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="'" line="40" column="34" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_alter_pctr_pcvr_candidate.sql" timestamp="1531200593611">
         <mark key="[" line="0" column="99" />
@@ -675,10 +675,10 @@
         <mark key="'" line="184" column="61" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1551334205919">
-        <mark key="[" line="199" column="36" />
-        <mark key="]" line="199" column="36" />
-        <mark key="." line="199" column="36" />
-        <mark key="^" line="199" column="14" />
+        <mark key="[" line="202" column="36" />
+        <mark key="]" line="202" column="36" />
+        <mark key="." line="202" column="36" />
+        <mark key="^" line="202" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
