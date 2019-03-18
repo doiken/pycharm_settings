@@ -433,11 +433,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1552532638884">
+      <file name="/code.py" timestamp="1552879373853">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-        <mark key="^" line="1" column="40" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/convert.py" timestamp="1536745403995">
         <mark key="[" line="1" column="0" />
@@ -674,12 +674,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
         <mark key="'" line="184" column="61" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1552531810827">
-        <mark key="'" line="52" column="40" />
-        <mark key="[" line="202" column="36" />
-        <mark key="]" line="202" column="36" />
-        <mark key="." line="202" column="36" />
-        <mark key="^" line="202" column="14" />
+      <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1552879356437">
+        <mark key="[" line="14" column="75" />
+        <mark key="]" line="205" column="36" />
+        <mark key="." line="205" column="36" />
+        <mark key="^" line="205" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
@@ -1068,7 +1067,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>16</text>
+        <text>baseline(fout_fmデフォルトハイパーパラメータ)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1083,7 +1082,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>16</text>
+        <text>baseline(fout_fmデフォルトハイパーパラメータ)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
@@ -1150,7 +1149,7 @@
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
