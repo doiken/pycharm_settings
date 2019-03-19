@@ -433,11 +433,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1552960409329">
+      <file name="/code.py" timestamp="1552962642143">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="32" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/convert.py" timestamp="1536745403995">
         <mark key="[" line="1" column="0" />
@@ -552,7 +552,7 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="/metrics.py" timestamp="1550809246191">
+      <file name="/metrics.py" timestamp="1552962023895">
         <mark key="'" line="10" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/dynamic_ads/item_importer/http_fetcher.t" timestamp="1523947064301">
@@ -676,9 +676,6 @@
       </file>
       <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1552960394122">
         <mark key="[" line="14" column="75" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
@@ -1066,8 +1063,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>baseline(fout_fmデフォルトハイパーパラメータ)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KG5hbWUgKyAiXG4iKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1082,16 +1079,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>baseline(fout_fmデフォルトハイパーパラメータ)</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>trainnum</text>
+        <text>'56258-model14-baseline-00'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">am9iX2RmWyJhdVBSIl0ubWVhbigpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG5hbWUgKyAiXG4iKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1112,31 +1109,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">am9iX2RmWyJhdVBSIl0ubWVhbigpIAo=</text>
+        <text encoding="base64">ICAgICc1NjI1OC1tb2RlbDE0LWJhc2VsaW5lLTAwJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmFtZSA9ICc1NjQ4MS1tb2RlbDIwLWJhc2VsaW5lLTAyLTAwMScK</text>
+        <text encoding="base64">ICAgICc1NjI1OC1tb2RlbDE0LWJhc2VsaW5kZS0wMCcK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGEuc3RyaXAoKSkpCg==</text>
+        <text encoding="base64">ICAgIHNob3dfcmVzdWx0KG5hbWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YSA9ICIgICAgIgo=</text>
+        <text encoding="base64">ICAgIGpvYl9kZiA9IG1ldHJpY3MubGlzdF9ocF9qb2JzKG5hbWUsIFtdLCA1KQogICAgam9iX2RmLmluZGV4ID0gc2VxKGpvYl9kZi5pbmRleCkubWFwKGxhbWJkYSBuOiBuLnJlcGxhY2UoZiJ7bmFtZX0tIiwgJycpKS5saXN0KCkgICMgc2hvcnRlbiBqb2IgbmFtZQogICAgcHJpbnQoZiJ7bmFtZX06IG1lYW49e2pvYl9kZlsnYXVQUiddLm1lYW4oKX1cbiIpCiAgICBkaXNwbGF5KGpvYl9kZi5zb3J0X3ZhbHVlcyhieT1bImF1UFIiXSwgYXNjZW5kaW5nPUZhbHNlKSkKICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgMC4wMToKICAgIHByaW50KDEpCmVsc2U6CiAgICBwcmludCgyKQo=</text>
+        <text encoding="base64">bmFtZSA9ICc1NjI1OC1tb2RlbDE0LWJhc2VsaW5lLTAwJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">am9iX2RmID0gbWV0cmljcy5saXN0X2hwX2pvYnMobmFtZSwgW10sIDUpCmpvYl9kZi5pbmRleCA9IHNlcShqb2JfZGYuaW5kZXgpLm1hcChsYW1iZGEgbjogbi5yZXBsYWNlKGYie25hbWV9LSIsICcnKSkubGlzdCgpICAjIHNob3J0ZW4gam9iIG5hbWUKcHJpbnQoZiJ7bmFtZX06IG1lYW49e2pvYl9kZlsnYXVQUiddLm1lYW4oKX0iKSAKZGlzcGxheShqb2JfZGYuc29ydF92YWx1ZXMoYnk9WyJhdVBSIl0sIGFzY2VuZGluZz1GYWxzZSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoMSkK</text>
+        <text encoding="base64">am9iX2RmWyJhdVBSIl0ubWVhbigpIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGlzcGxheShqb2JfZGYuc29ydF92YWx1ZXMoYnk9WyJhdVBSIl0sIGFzY2VuZGluZz1GYWxzZSkpIAo=</text>
+        <text encoding="base64">IyBwdDMgICA6IGZhY3RvciAyCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
