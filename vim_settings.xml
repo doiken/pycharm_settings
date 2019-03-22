@@ -429,10 +429,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/code.py" timestamp="1553047149944">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/code.py" timestamp="1553226185611">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/convert.py" timestamp="1536745403995">
         <mark key="[" line="1" column="0" />
@@ -673,8 +674,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
         <mark key="'" line="184" column="61" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1552960394122">
-        <mark key="[" line="14" column="75" />
+      <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1553226168762">
+        <mark key="[" line="196" column="42" />
+        <mark key="]" line="196" column="41" />
+        <mark key="." line="196" column="41" />
+        <mark key="^" line="196" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
@@ -1062,8 +1066,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQocmVjYWxsKQpwcmludChwcmVkaWN0aW9uKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1078,16 +1082,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>recall</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQocmVjYWxsKQo=</text>
+        <text encoding="base64">c2hvd19yZXN1bHQoJzU2MjU4LW1vZGVsMTQtYmFzZWxpbmUtMDAnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQocmVjYWxsKQpwcmludChwcmVkaWN0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1108,31 +1112,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBST0Pmm7Lnt5rjgpLjg5fjg63jg4NkZOODiAo=</text>
+        <text encoding="base64">ICAgIHNob3dfcmVzdWx0KG5hbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyDjgpLjg5fjg63jg4Pjg4gK</text>
+        <text encoding="base64">XToK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBST0Pmm7Lnt5rjgpLjg5fjg63jg4Pjg4gKcGx0LnBsb3QoZnByLCB0cHIsIGxhYmVsPSdST0MgY3VydmUgKGFyZWEgPSAlLjJmKScgJSBhdVJPQykKcGx0LmxlZ2VuZCgpCnBsdC50aXRsZSgnUk9DIGN1cnZlJykKcGx0LnhsYWJlbCgnRmFsc2UgUG9zaXRpdmUgUmF0ZScpCnBsdC55bGFiZWwoJ1RydWUgUG9zaXRpdmUgUmF0ZShSZWNhbGwpJykKcGx0LmdyaWQoVHJ1ZSkKcGx0LmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICc1NjI1OC1tb2RlbDE0LXB0My0wNCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBST0Pmm7Lnt5rjgpLjg5fjg63jg4Pjg4gKcGx0LnBsb3QoZnByLCB0cHIsIGxhYmVsPSdST0MgY3VydmUgKGFyZWEgPSAlLjJmKScgJSBhdVJPQykKcGx0LmxlZ2VuZCgpCnBsdC50aXRsZSgnUk9DIGN1cnZlJykKcGx0LnhsYWJlbCgnRmFsc2UgUG9zaXRpdmUgUmF0ZScpCnBsdC55bGFiZWwoJ1RydWUgUG9zaXRpdmUgUmF0ZShSZWNhbGwpJykKcGx0LmdyaWQoVHJ1ZSkKcGx0LmNsb3NlKCkK</text>
+        <text encoding="base64">Zm9yIG5hbWUgaW4gWwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHByZWNpc2lvbl9yZWNhbGxfY3VydmUoeV90cnVlLCBwcm9iYXNfcHJlZCwgcG9zX2xhYmVsPU5vbmUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHNhbXBsZV93ZWlnaHQ9Tm9uZSk6Cg==</text>
+        <text encoding="base64">ICAgICc1NjI1OC1tb2RlbDE0LXB0My0wMScsICAjIGZpZWxkIDI0LCBmYWN0b3IgMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGYgPSBwZC5EYXRhRnJhbWUoCiAgICB7CiAgICAgICAgJ2xhYmVsJzogWzEsIDAsIDEsIDEsIDAsIDAsIDBdLAogICAgfSwKICAgIGluZGV4PVsxLCAyLCAzLCA0LCA1LCA2LCA3XQopCg==</text>
+        <text encoding="base64">ICAgICc1NjI1OC1tb2RlbDE0LXB0Mi0wMCcsICAjIGZpZWxkIDgsICBmYWN0b3IgMwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">c2hvd19yZXN1bHQoJzU2MjU4LW1vZGVsMTQtYmFzZWxpbmUtMDAnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyDmrKHjga7oqJjkuovjga7jg4fjg7zjgr8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
