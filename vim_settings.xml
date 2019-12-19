@@ -365,6 +365,12 @@
         <mark key="^" line="143" column="40" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/Repositories/python_test/linear_model/logistic_regression.py" timestamp="1576733870323">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/load_app_l_interest_v2_ctr_model.hql" timestamp="1513072690257">
         <mark key="[" line="5" column="107" />
         <mark key="]" line="5" column="19" />
@@ -688,11 +694,17 @@
         <mark key="[" line="160" column="35" />
         <mark key="]" line="160" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1549597346102">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="2" column="37" />
-        <mark key="^" line="2" column="37" />
+      <file name="$USER_HOME$/Repositories/python_test/README.md" timestamp="1576732869041">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1576732056504">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-plusplus/src/plusplus.coffee" timestamp="1526025351349">
         <mark key="'" line="181" column="2" />
@@ -1067,7 +1079,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1082,16 +1094,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2hvd19yZXN1bHQoJzU2MjU4LW1vZGVsMTQtYmFzZWxpbmUtMDAnKQo=</text>
+      <register name="0" type="4">
+        <text>pprint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHAucHByaW50KHlbOjIsIDpdKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1112,28 +1124,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNob3dfcmVzdWx0KG5hbWUpCg==</text>
+        <text encoding="base64">cHAucHByaW50KHlbOjIsIDpdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">XToK</text>
+        <text encoding="base64">cHAucHByaW50KFhbOjIsIDpdKQo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICc1NjI1OC1tb2RlbDE0LXB0My0wNCcsCg==</text>
+        <text encoding="base64">cHJpbnQoeVs6MiwgOl0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIG5hbWUgaW4gWwo=</text>
+        <text encoding="base64">MC45Ny4uLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICc1NjI1OC1tb2RlbDE0LXB0My0wMScsICAjIGZpZWxkIDI0LCBmYWN0b3IgMgo=</text>
+        <text encoding="base64">ICAgICAgIFs5LjcuLi5lLTAxLCAyLjguLi5lLTAyLCAuLi5lLTA4XV0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICc1NjI1OC1tb2RlbDE0LXB0Mi0wMCcsICAjIGZpZWxkIDgsICBmYWN0b3IgMwo=</text>
+        <text encoding="base64">YXJyYXkoW1s5LjguLi5lLTAxLCAxLjguLi5lLTAyLCAxLjQuLi5lLTA4XSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2hvd19yZXN1bHQoJzU2MjU4LW1vZGVsMTQtYmFzZWxpbmUtMDAnKQo=</text>
+        <text encoding="base64">YXJyYXkoWzAsIDBdKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
