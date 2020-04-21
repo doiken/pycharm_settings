@@ -558,8 +558,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMPrediction.pm" timestamp="1529485785089">
         <mark key="'" line="60" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" timestamp="1587455512080">
-        <mark key="'" line="59" column="20" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" timestamp="1587461435706">
+        <mark key="'" line="69" column="28" />
         <mark key="[" line="59" column="133" />
         <mark key="]" line="59" column="133" />
         <mark key="^" line="59" column="133" />
@@ -834,8 +834,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/FMPrediction.pm" timestamp="1529483013244">
         <mark key="'" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1587454929372">
-        <mark key="'" line="787" column="31" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1587461611172">
+        <mark key="'" line="1352" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -991,20 +991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="708" column="15" filename="/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/connection.py" />
-      <jump line="4" column="25" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="162" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="5" column="6" filename="/code.py" />
-      <jump line="4" column="0" filename="/code.py" />
-      <jump line="183" column="45" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="160" column="48" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/estimator.py" />
-      <jump line="193" column="13" filename="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/tuner.py" />
-      <jump line="2" column="24" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="81" column="59" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="37" column="62" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="78" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="105" column="4" filename="$USER_HOME$/Documents/fout_sandbox/jupyter/lib/metrics.py" />
@@ -1078,19 +1064,33 @@
       <jump line="57" column="14" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" />
       <jump line="58" column="14" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" />
       <jump line="1270" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
-      <jump line="1291" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
       <jump line="791" column="39" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
       <jump line="796" column="27" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
       <jump line="1269" column="15" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
-      <jump line="799" column="17" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
-      <jump line="59" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" />
-      <jump line="69" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" />
       <jump line="5" column="6" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/utils.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/utils.py" />
       <jump line="1" column="10" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/utils.py" />
       <jump line="595" column="6" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
       <jump line="754" column="53" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
       <jump line="787" column="31" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="59" column="22" filename="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" />
+      <jump line="69" column="28" filename="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" />
+      <jump line="1291" column="18" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="799" column="18" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="798" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="48" column="43" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="591" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="741" column="65" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="817" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="905" column="15" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="928" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="974" column="8" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="938" column="14" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="918" column="23" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="917" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="1003" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="1337" column="2" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="1352" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1121,7 +1121,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaXRcPg==</text>
+        <text encoding="base64">XDxkZWZcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBzbGFja2NsaWVudCBpbXBvcnQgU2xhY2tDbGllbnQK</text>
@@ -1179,9 +1179,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaXRcPg==</last-search>
+      <last-search encoding="base64">XDxkZWZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1212,6 +1212,11 @@
         <entry encoding="base64">XDxnZW5lcmF0b3JcPg==</entry>
         <entry encoding="base64">XDxTbGFja0NsaWVudFw+</entry>
         <entry encoding="base64">XDxmaXRcPg==</entry>
+        <entry encoding="base64">XDx0cmFpbmluZ19nZW5lcmF0b3JcPg==</entry>
+        <entry encoding="base64">XDx3b3JrZXJzXD4=</entry>
+        <entry encoding="base64">XDxfc2VsZWN0X3RyYWluaW5nX2xvb3BcPg==</entry>
+        <entry encoding="base64">XDxwcmVkaWN0XD4=</entry>
+        <entry encoding="base64">XDxkZWZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
