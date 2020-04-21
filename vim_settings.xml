@@ -558,8 +558,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMPrediction.pm" timestamp="1529485785089">
         <mark key="'" line="60" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" timestamp="1587453976728">
-        <mark key="'" line="69" column="20" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" timestamp="1587455512080">
+        <mark key="'" line="59" column="20" />
         <mark key="[" line="59" column="133" />
         <mark key="]" line="59" column="133" />
         <mark key="^" line="59" column="133" />
@@ -834,8 +834,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/FMPrediction.pm" timestamp="1529483013244">
         <mark key="'" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1587454075217">
-        <mark key="'" line="799" column="17" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1587454929372">
+        <mark key="'" line="787" column="31" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -1079,9 +1079,6 @@
       <jump line="58" column="14" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" />
       <jump line="1270" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
       <jump line="1291" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
-      <jump line="595" column="6" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
-      <jump line="754" column="53" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
-      <jump line="787" column="31" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
       <jump line="791" column="39" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
       <jump line="796" column="27" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
       <jump line="1269" column="15" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
@@ -1091,6 +1088,9 @@
       <jump line="5" column="6" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/utils.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/utils.py" />
       <jump line="1" column="10" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/utils.py" />
+      <jump line="595" column="6" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="754" column="53" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
+      <jump line="787" column="31" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1102,8 +1102,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzbGFja2NsaWVudCBpbXBvcnQgU2xhY2tDbGllbnQK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1118,10 +1118,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTbGFja0NsaWVudFw+</text>
+        <text encoding="base64">XDxmaXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBzbGFja2NsaWVudCBpbXBvcnQgU2xhY2tDbGllbnQK</text>
@@ -1179,9 +1179,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTbGFja0NsaWVudFw+</last-search>
+      <last-search encoding="base64">XDxmaXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTbGFja0NsaWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmaXRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1210,8 +1210,8 @@
         <entry encoding="base64">XDxqb2JfZGZcPg==</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0b3JcPg==</entry>
-        <entry encoding="base64">XDxmaXRcPg==</entry>
         <entry encoding="base64">XDxTbGFja0NsaWVudFw+</entry>
+        <entry encoding="base64">XDxmaXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
