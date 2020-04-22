@@ -166,14 +166,15 @@
         <mark key="." line="109" column="44" />
         <mark key="^" line="109" column="44" />
       </file>
+      <file name="/nn.py" timestamp="1587554708959" />
       <file name="$FOUT_HOME$/t/fout/bid/memd_bid.t" timestamp="1519277979974">
         <mark key="[" line="49" column="36" />
         <mark key="]" line="49" column="38" />
         <mark key="^" line="36" column="70" />
         <mark key="." line="49" column="38" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" timestamp="1587553510370">
-        <mark key="'" line="45" column="58" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" timestamp="1587555299389">
+        <mark key="'" line="45" column="56" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -434,7 +435,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Geo/GeoIP.pm" timestamp="1526355474751">
         <mark key="'" line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" timestamp="1587553733796">
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" timestamp="1587555280554">
         <mark key="'" line="41" column="53" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
@@ -480,12 +481,12 @@
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" timestamp="1587545224106">
         <mark key="'" line="158" column="58" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587553909920">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="52" column="26" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587559335332">
+        <mark key="'" line="13" column="7" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="46" column="18" />
+        <mark key="." line="35" column="4" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
         <mark key="'" line="52" column="23" />
@@ -559,10 +560,10 @@
       <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/local/local_session.py" timestamp="1537344889136">
         <mark key="'" line="189" column="27" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" timestamp="1587553643652">
-        <mark key="'" line="179" column="4" />
-        <mark key="[" line="300" column="11" />
-        <mark key="]" line="300" column="48" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" timestamp="1587555302248">
+        <mark key="'" line="281" column="51" />
+        <mark key="[" line="280" column="4" />
+        <mark key="]" line="280" column="29" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1531204337789">
         <mark key="'" line="29" column="4" />
@@ -1005,63 +1006,28 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="90" column="4" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="159" column="33" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="134" column="74" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="168" column="19" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="6" column="12" filename="$USER_HOME$/Repositories/deepctr_tut/criteo.py" />
-      <jump line="18" column="28" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="169" column="5" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="170" column="3" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="28" column="35" filename="$USER_HOME$/Repositories/deepctr_tut/criteo.py" />
-      <jump line="172" column="3" filename="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" />
-      <jump line="10" column="7" filename="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" />
-      <jump line="10" column="21" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="91" column="4" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="92" column="11" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="100" column="21" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="182" column="15" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="170" column="3" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="169" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="171" column="26" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="13" column="22" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="158" column="58" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
       <jump line="161" column="14" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="160" column="8" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="159" column="8" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="15" column="26" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="64" column="4" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="189" column="14" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="122" column="23" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="123" column="22" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="194" column="11" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="25" column="9" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="6" column="10" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="196" column="37" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="165" column="11" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="201" column="18" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="35" column="10" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="203" column="29" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="31" column="22" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="154" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="71" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" />
       <jump line="44" column="33" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="17" column="15" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="14" column="26" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" />
       <jump line="55" column="9" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
@@ -1073,8 +1039,6 @@
       <jump line="51" column="47" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" />
       <jump line="177" column="4" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" />
       <jump line="189" column="15" filename="/usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/lib/python3.7/traceback.py" />
-      <jump line="50" column="11" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="48" column="34" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" />
       <jump line="47" column="12" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="37" column="11" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" />
@@ -1088,23 +1052,60 @@
       <jump line="52" column="23" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" />
       <jump line="178" column="8" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="174" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="19" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/__init__.py" />
       <jump line="13" column="19" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/__init__.py" />
       <jump line="12" column="61" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" />
       <jump line="47" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" />
       <jump line="44" column="32" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" />
       <jump line="179" column="4" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" />
-      <jump line="45" column="58" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" />
       <jump line="41" column="53" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" />
       <jump line="73" column="46" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="65" column="9" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="5" column="7" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="52" column="45" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="19" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="25" column="33" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="45" column="56" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" />
+      <jump line="281" column="51" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="22" column="22" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="17" column="39" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="14" column="40" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="119" column="11" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="133" column="6" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="66" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="181" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="68" column="28" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="20" column="22" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="179" column="15" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="180" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="205" column="3" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="208" column="76" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="210" column="51" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="187" column="21" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="35" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="36" column="9" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="37" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="38" column="19" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="39" column="14" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="40" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="41" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="42" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="13" column="7" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1117,7 +1118,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHByaW50LnBwcmludChwYXJhbSkK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1132,16 +1133,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbGRfaW5wdXRfZnJvbV9mZWF0dXJlX2NvbHVtbnNcPg==</text>
+        <text encoding="base64">XDxwcHJpbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>module.input_from_feature_columns</text>
+      <register name="0" type="2">
+        <text encoding="base64">U0hPVUxEX0VBUkxZX1NUT1AgPSBwYXJhbS5nZXQoJ3Nob3VsZF9lYXJseV9zdG9wJywgVHJ1ZSkKRVBPQ0hTID0gcGFyYW0uZ2V0KCdlcG9jaHMnLCA1KQpCQVRDSF9TSVpFID0gcGFyYW0uZ2V0KCdiYXRjaF9zaXplJywgNTEyKQpETk5fSElEREVOX1VOSVRTID0gcGFyYW0uZ2V0KCdkbm5faGlkZGVuX3VuaXRzJywgWzQwMCwgNDAwLCA0MDBdKQpETk5fRFJPUE9VVCA9IHBhcmFtLmdldCgnZG5uX2Ryb3BvdXQnLCAwLjApCkVNQkVERElOR19EUk9QT1VUID0gcGFyYW0uZ2V0KCdlbWJlZGRpbmdfZHJvcG91dCcsIDAuMCkKRU1CRURESU5HX0RJTSA9IHBhcmFtLmdldCgnZW1iZWRkaW5nX2RpbScsIDQpCk1PREVMX05BTUUgPSBwYXJhbS5nZXQoJ21vZGVsX25hbWUnLCAiIikKREVCVUcgPSBwYXJhbS5nZXQoJ2RkZWJ1Z2VidWcnLCBUcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHByaW50LnBwcmludChwYXJhbSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1162,40 +1163,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kdWxlID0gc3lzLm1vZHVsZXNbJ2RlZXBjdHIuaW5wdXRzJ10K</text>
+        <text encoding="base64">cHJpbnQgKFNIT1VMRF9FQVJMWV9TVE9QKQpwcmludCAoRVBPQ0hTKQpwcmludCAoQkFUQ0hfU0laRSkKcHJpbnQgKEROTl9ISURERU5fVU5JVFMpCnByaW50IChETk5fRFJPUE9VVCkKcHJpbnQgKEVNQkVERElOR19EUk9QT1VUKQpwcmludCAoRU1CRURESU5HX0RJTSkKcHJpbnQgKE1PREVMX05BTUUpCnByaW50IChERUJVRykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHByaW50KHBhcmFtKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IwojIGN1c3RvbSBzdGFydAojCiMKIyBjdXN0b20gZW5kCiMKCg==</text>
+        <text encoding="base64">aHlwZXJwYXJhbWV0ZXIgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b2xkX2lucHV0X2Zyb21fZmVhdHVyZV9jb2x1bW5zID0gaW5wdXRfZnJvbV9mZWF0dXJlX2NvbHVtbnMK</text>
+        <text encoding="base64">UkVTVUxUX1BBVEggPSBXT1JLX0RJUiArICdyZXN1bHQudHh0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b2xkX2lucHV0X2Zyb21fZmVhdHVyZV9jb2x1bW5zID0gaW5wdXRfZnJvbV9mZWF0dXJlX2NvbHVtbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KDExMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbGRfaW5wdXRfZnJvbV9mZWF0dXJlX2NvbHVtbnNcPg==</last-search>
+      <last-search encoding="base64">XDxwcHJpbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbGRfaW5wdXRfZnJvbV9mZWF0dXJlX2NvbHVtbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcHJpbnRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1210,7 +1211,6 @@
         <entry encoding="base64">XDxTQUdFTUFLRVJfT1BUU1w+</entry>
         <entry encoding="base64">XDxERUZBVUxUX1dPUktfRElSXD4=</entry>
         <entry encoding="base64">XDxBZGFtXD4=</entry>
-        <entry encoding="base64">XDxwbG90X21vZGVsXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxkbm5fZHJvcG91dFw+</entry>
         <entry>step</entry>
@@ -1220,7 +1220,6 @@
         <entry encoding="base64">XDxlbWJlZGRpbmdfZGltXD4=</entry>
         <entry encoding="base64">XDxiYXRjaF9zaXplXD4=</entry>
         <entry encoding="base64">XDxlc1w+</entry>
-        <entry encoding="base64">XDxlcG9jaHNcPg==</entry>
         <entry encoding="base64">XDx0Zlw+</entry>
         <entry encoding="base64">XDxyZWxpbXBsXD4=</entry>
         <entry encoding="base64">XDx2YWxfYXVjXD4=</entry>
@@ -1229,7 +1228,6 @@
         <entry encoding="base64">XDxBVUNcPg==</entry>
         <entry encoding="base64">XDwjXD4=</entry>
         <entry encoding="base64">XDxyZWxhdGl2ZV9pbXByb3ZlbWVudHNcPg==</entry>
-        <entry encoding="base64">XDxlYXJseV9zdG9wX2VuYWJsZWRcPg==</entry>
         <entry encoding="base64">XDw2NDYyMl93ZWJfdHJhaW5fc21hbGxcPg==</entry>
         <entry encoding="base64">XDx0cmFpbl9wYXRoXD4=</entry>
         <entry encoding="base64">XDxUUkFJTl9QQVRIXD4=</entry>
@@ -1242,7 +1240,6 @@
         <entry encoding="base64">XDxncm91cF9lbWJlZGRpbmdfZGljdFw+</entry>
         <entry encoding="base64">XDxnZXRfbGluZWFyX2xvZ2l0XD4=</entry>
         <entry encoding="base64">XDxsaW5lYXJfbG9naXRcPg==</entry>
-        <entry encoding="base64">XDxlbWJlZGRpbmdfZHJvcG91dFw+</entry>
         <entry encoding="base64">XDxsMl9yZWdfbGluZWFyXD4=</entry>
         <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
@@ -1252,6 +1249,25 @@
         <entry>prefix</entry>
         <entry encoding="base64">XDxzeXNcPg==</entry>
         <entry encoding="base64">XDxvbGRfaW5wdXRfZnJvbV9mZWF0dXJlX2NvbHVtbnNcPg==</entry>
+        <entry encoding="base64">XDxEZWVwRk1cPg==</entry>
+        <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
+        <entry encoding="base64">XDxzdXBwb3J0X2dyb3VwXD4=</entry>
+        <entry encoding="base64">XDxnXD4=</entry>
+        <entry encoding="base64">XDxwbG90X21vZGVsXD4=</entry>
+        <entry encoding="base64">XDxnZXRfZmVhdHVyZV9uYW1lc1w+</entry>
+        <entry encoding="base64">XDxLXD4=</entry>
+        <entry encoding="base64">XDxlbWJlZGRpbmdfZHJvcG91dFw+</entry>
+        <entry encoding="base64">XDxXT1JLX0RJUlw+</entry>
+        <entry encoding="base64">XDxNT0RFTFw+</entry>
+        <entry encoding="base64">XDxNT0RFTF9OQU1FXD4=</entry>
+        <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
+        <entry encoding="base64">XDxlYXJseV9zdG9wX2VuYWJsZWRcPg==</entry>
+        <entry encoding="base64">XDxlcG9jaHNcPg==</entry>
+        <entry encoding="base64">XDxFUE9DSFNcPg==</entry>
+        <entry encoding="base64">XDxCQVRDSF9TSVpFXD4=</entry>
+        <entry encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbVw+</entry>
+        <entry encoding="base64">XDxwcHJpbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
