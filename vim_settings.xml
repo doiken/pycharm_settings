@@ -163,12 +163,12 @@
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" timestamp="1587545224106">
         <mark key="'" line="158" column="58" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587562462655">
-        <mark key="'" line="179" column="14" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="4" />
-        <mark key="^" line="46" column="18" />
-        <mark key="." line="35" column="4" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587564535183">
+        <mark key="'" line="49" column="10" />
+        <mark key="[" line="231" column="6" />
+        <mark key="]" line="231" column="16" />
+        <mark key="^" line="232" column="10" />
+        <mark key="." line="231" column="6" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
         <mark key="'" line="52" column="23" />
@@ -465,7 +465,6 @@
       <jump line="63" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="5" column="7" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="52" column="45" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="19" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
@@ -511,6 +510,7 @@
       <jump line="38" column="19" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="106" column="15" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" />
       <jump line="107" column="29" filename="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" />
+      <jump line="49" column="10" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -523,7 +523,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ru</text>
+        <text>results_df</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -544,7 +544,7 @@
         <text encoding="base64">XDxNRVRSSUNfS0VZXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>~/.aws/config</text>
+        <text>results_df</text>
       </register>
       <register name="1" type="4">
         <text>alParameter(True),
