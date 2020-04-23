@@ -118,24 +118,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1587541952385">
+      <file name="/code.py" timestamp="1587604895355">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" timestamp="1587555302248">
-        <mark key="'" line="281" column="51" />
-        <mark key="[" line="280" column="4" />
-        <mark key="]" line="280" column="29" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training_v2.py" timestamp="1587531779673">
-        <mark key="'" line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" timestamp="1587541963838">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/lib/python3.7/traceback.py" timestamp="1587551290291">
-        <mark key="'" line="189" column="15" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="/Python Console" timestamp="1587553857547">
         <mark key="[" line="0" column="0" />
@@ -144,14 +131,71 @@
         <mark key="[" line="16" column="23" />
         <mark key="]" line="16" column="35" />
       </file>
+      <file name="/a.dummy" timestamp="1587541952385">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/__init__.py" timestamp="1587552491189">
         <mark key="'" line="13" column="19" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="6" />
       </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" timestamp="1587555302248">
+        <mark key="'" line="281" column="51" />
+        <mark key="[" line="280" column="4" />
+        <mark key="]" line="280" column="29" />
+      </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" timestamp="1587545224106">
+        <mark key="'" line="158" column="58" />
+      </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/criteo.py" timestamp="1587547820467">
+        <mark key="'" line="26" column="35" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="/usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/lib/python3.7/traceback.py" timestamp="1587551290291">
+        <mark key="'" line="189" column="15" />
+      </file>
       <file name="/usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pprint.py" timestamp="1587551366432">
         <mark key="[" line="46" column="4" />
         <mark key="]" line="46" column="9" />
+      </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587604015915">
+        <mark key="'" line="44" column="39" />
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="38" column="44" />
+      </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training_v2.py" timestamp="1587531779673">
+        <mark key="'" line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
+        <mark key="'" line="52" column="23" />
+      </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1587466382436">
+        <mark key="'" line="166" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/ffm/56481-model20.ipynb" timestamp="1587616551703" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" timestamp="1587555280554">
+        <mark key="'" line="41" column="53" />
+      </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" timestamp="1587541963838">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" timestamp="1587541899657">
+        <mark key="'" line="172" column="3" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" timestamp="1587555299389">
         <mark key="'" line="45" column="56" />
@@ -165,49 +209,6 @@
         <mark key="]" line="196" column="41" />
         <mark key="." line="196" column="41" />
         <mark key="^" line="196" column="41" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1587466382436">
-        <mark key="'" line="166" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" timestamp="1587555280554">
-        <mark key="'" line="41" column="53" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" timestamp="1587541899657">
-        <mark key="'" line="172" column="3" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-      </file>
-      <file name="/code.py" timestamp="1587604895355">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="1" column="39" />
-        <mark key="." line="8" column="33" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" timestamp="1587545224106">
-        <mark key="'" line="158" column="58" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/criteo.py" timestamp="1587547820467">
-        <mark key="'" line="26" column="35" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587604015915">
-        <mark key="'" line="44" column="39" />
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="38" column="44" />
-        <mark key="^" line="38" column="44" />
-        <mark key="." line="38" column="44" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
-        <mark key="'" line="52" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -421,7 +422,7 @@
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
