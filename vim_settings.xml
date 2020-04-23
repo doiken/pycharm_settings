@@ -1,249 +1,143 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
+        <entry encoding="base64">XDxzdXBwb3J0X2dyb3VwXD4=</entry>
+        <entry encoding="base64">XDxnXD4=</entry>
+        <entry encoding="base64">XDxwbG90X21vZGVsXD4=</entry>
+        <entry encoding="base64">XDxnZXRfZmVhdHVyZV9uYW1lc1w+</entry>
+        <entry encoding="base64">XDxLXD4=</entry>
+        <entry encoding="base64">XDxlbWJlZGRpbmdfZHJvcG91dFw+</entry>
+        <entry encoding="base64">XDxXT1JLX0RJUlw+</entry>
+        <entry encoding="base64">XDxNT0RFTFw+</entry>
+        <entry encoding="base64">XDxNT0RFTF9OQU1FXD4=</entry>
+        <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
+        <entry encoding="base64">XDxlYXJseV9zdG9wX2VuYWJsZWRcPg==</entry>
+        <entry encoding="base64">XDxlcG9jaHNcPg==</entry>
+        <entry encoding="base64">XDxFUE9DSFNcPg==</entry>
+        <entry encoding="base64">XDxCQVRDSF9TSVpFXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbVw+</entry>
+        <entry encoding="base64">XDxwcHJpbnRcPg==</entry>
+        <entry encoding="base64">XDxNRVRSSUNfS0VZXD4=</entry>
+        <entry encoding="base64">XDxCQVNFTElORV9TQ09SRVNcPg==</entry>
+        <entry encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>put =range(11,15)</entry>
+        <entry>put a</entry>
+        <entry>put =111</entry>
+        <entry encoding="base64">JzwsJz4gbm9ybWFsIEAx</entry>
+        <entry encoding="base64">JzwsJz5AMQ==</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWwgQDE=</entry>
+        <entry>put</entry>
+        <entry>help</entry>
+        <entry encoding="base64">JzwsJz5wdXQgMQ==</entry>
+        <entry>r!ls</entry>
+        <entry>r</entry>
+        <entry>normal</entry>
+        <entry>&quot;qp</entry>
+        <entry>%normal @a</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWw=</entry>
+        <entry>sp</entry>
+        <entry>E</entry>
+        <entry>set paste</entry>
+        <entry>vs</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" timestamp="1530501869223">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1587541952385">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1528353280629">
-        <mark key="'" line="2564" column="2" />
-      </file>
-      <file name="$FOUT_HOME$/t/utils/MakeHelper.pm" timestamp="1529472163920">
-        <mark key="'" line="76" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1526456852431">
-        <mark key="'" line="227" column="13" />
-      </file>
-      <file name="$FOUT_HOME$/db/cron/rotate_logs_table.pl" timestamp="1529057203013">
-        <mark key="'" line="69" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/model/adgroup-isthirdparty.t" timestamp="1531120798947">
-        <mark key="'" line="36" column="72" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/tuner.py" timestamp="1549522897661">
-        <mark key="'" line="193" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" timestamp="1530585650128">
-        <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1529552840541">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1527209172771">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" timestamp="1530694803138">
-        <mark key="'" line="15" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" timestamp="1530675400653">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigParser.scala" timestamp="1528351784016">
-        <mark key="'" line="14" column="6" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCVideo.pm" timestamp="1529488765808">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pprint.py" timestamp="1587551366432">
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="9" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1527505947743">
-        <mark key="'" line="54" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/gitlab.coffee" timestamp="1526020669438">
-        <mark key="'" line="40" column="5" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket141.pm" timestamp="1529551986358">
-        <mark key="'" line="63" column="47" />
-      </file>
-      <file name="/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/connection.py" timestamp="1538641665332">
-        <mark key="'" line="708" column="15" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1531191378103">
-        <mark key="'" line="249" column="4" />
-      </file>
-      <file name="/nn.py" timestamp="1587554708959" />
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" timestamp="1587555299389">
-        <mark key="'" line="45" column="56" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/api/config.yaml" timestamp="1526608831953">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/pool.py" timestamp="1538641502093">
-        <mark key="'" line="382" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1530685439286">
-        <mark key="'" line="94" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1526553090781">
-        <mark key="'" line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-slack/src/bot.coffee" timestamp="1526348900197">
-        <mark key="'" line="133" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1527583214434">
-        <mark key="'" line="32" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1552985250119">
-        <mark key="'" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" timestamp="1531104912386">
-        <mark key="'" line="271" column="33" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Adveri/BrandSafeURLSender.pm" timestamp="1529285492295">
-        <mark key="'" line="45" column="25" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/reshape/pivot.py" timestamp="1537244670015">
-        <mark key="'" line="489" column="15" />
-      </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Cache/Memcached/Fast/Safe.pm" timestamp="1527753194028">
-        <mark key="'" line="126" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl/Load.pm" timestamp="1530071997918">
-        <mark key="'" line="41" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1526434977634">
-        <mark key="'" line="219" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" timestamp="1527666866947">
-        <mark key="'" line="36" column="62" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/BidPriceEstimation.pm" timestamp="1527503592531">
-        <mark key="'" line="150" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/0014_fm_notline_cvr.yml" timestamp="1529396818851">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1552985387300">
-        <mark key="'" line="17" column="11" />
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="1" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" timestamp="1526356746203">
-        <mark key="'" line="35" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL/SageMaker.pm" timestamp="1530503447910">
-        <mark key="'" line="0" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Geo/GeoIP.pm" timestamp="1526355474751">
-        <mark key="'" line="63" column="17" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" timestamp="1587555280554">
-        <mark key="'" line="41" column="53" />
-      </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
-        <mark key="'" line="678" column="20" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" timestamp="1587541899657">
-        <mark key="'" line="172" column="3" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-      </file>
-      <file name="/code.py" timestamp="1587563902246">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="1" column="39" />
-        <mark key="." line="8" column="33" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" timestamp="1587545224106">
-        <mark key="'" line="158" column="58" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587604015915">
-        <mark key="'" line="44" column="39" />
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="38" column="44" />
-        <mark key="^" line="38" column="44" />
-        <mark key="." line="38" column="44" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
-        <mark key="'" line="52" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/FeatureExtractionRunner.scala" timestamp="1530519421170">
-        <mark key="'" line="97" column="18" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" timestamp="1529545335482">
-        <mark key="'" line="22" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1531111671409">
-        <mark key="'" line="76" column="12" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1439995966/builtins.py" timestamp="1538558184358">
-        <mark key="'" line="334" column="52" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1527506023902">
-        <mark key="'" line="71" column="16" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRMFM.pm" timestamp="1529632359826">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl/Copy.pm" timestamp="1530583546145">
-        <mark key="'" line="25" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-slack/src/reaction-message.coffee" timestamp="1526033133879">
-        <mark key="'" line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/local/local_session.py" timestamp="1537344889136">
-        <mark key="'" line="189" column="27" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" timestamp="1587555302248">
         <mark key="'" line="281" column="51" />
         <mark key="[" line="280" column="4" />
         <mark key="]" line="280" column="29" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1531204337789">
-        <mark key="'" line="29" column="4" />
-      </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training_v2.py" timestamp="1587531779673">
         <mark key="'" line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" timestamp="1527670509980">
-        <mark key="'" line="24" column="15" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMPrediction.pm" timestamp="1529485785089">
-        <mark key="'" line="60" column="9" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/criteo_wdl.py" timestamp="1587541963838">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/metrics.py" timestamp="1552962023895">
-        <mark key="'" line="10" column="0" />
-      </file>
       <file name="/usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/lib/python3.7/traceback.py" timestamp="1587551290291">
         <mark key="'" line="189" column="15" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1550809235838">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/DBoost.pm" timestamp="1529042090186">
-        <mark key="'" line="16" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1527664778887">
-        <mark key="'" line="88" column="12" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java" timestamp="1528336921665">
-        <mark key="'" line="192" column="26" />
-      </file>
       <file name="/Python Console" timestamp="1587553857547">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1587464795632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/README.md" timestamp="1587563494856">
@@ -255,23 +149,15 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="6" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1526437423264">
-        <mark key="'" line="0" column="0" />
+      <file name="/usr/local/opt/python/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pprint.py" timestamp="1587551366432">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="9" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1531205781066">
-        <mark key="'" line="261" column="9" />
-      </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pm" timestamp="1527756086013">
-        <mark key="'" line="1393" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1526890925172">
-        <mark key="'" line="287" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/Util/Hive.pm" timestamp="1526376630398">
-        <mark key="'" line="15" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
-        <mark key="'" line="184" column="61" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" timestamp="1587555299389">
+        <mark key="'" line="45" column="56" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_sandbox/jupyter/lib/metrics.py" timestamp="1587563137251">
         <mark key="'" line="107" column="29" />
@@ -280,55 +166,6 @@
         <mark key="." line="196" column="41" />
         <mark key="^" line="196" column="41" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
-        <mark key="'" line="1404" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-plusplus/src/plusplus.coffee" timestamp="1526025351349">
-        <mark key="'" line="181" column="2" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/prediction/ctr_fm_prediction.t" timestamp="1529488758580">
-        <mark key="'" line="46" column="19" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala" timestamp="1529032320861">
-        <mark key="'" line="959" column="6" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/functools.pyi" timestamp="1538640962774">
-        <mark key="'" line="15" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/StoreMapping.pm" timestamp="1531111982882">
-        <mark key="'" line="9" column="29" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/AppLInterestV2.pm" timestamp="1529307489565">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/pandas/core/generic.py" timestamp="1538537756416">
-        <mark key="'" line="9203" column="3" />
-        <mark key="[" line="8283" column="72" />
-        <mark key="]" line="8283" column="8" />
-        <mark key="^" line="8283" column="8" />
-        <mark key="." line="8283" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" timestamp="1528868587221">
-        <mark key="'" line="113" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFGenerator.scala" timestamp="1528350673418">
-        <mark key="'" line="18" column="13" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1528162567738">
-        <mark key="'" line="74" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/Scaling.pm" timestamp="1528169279505">
-        <mark key="'" line="50" column="8" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/sagemaker/job.py" timestamp="1537239806816">
-        <mark key="'" line="135" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot/src/response.coffee" timestamp="1526033759020">
-        <mark key="'" line="78" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/FMPrediction.pm" timestamp="1529483013244">
-        <mark key="'" line="17" column="47" />
-      </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1587466382436">
         <mark key="'" line="166" column="6" />
         <mark key="[" line="0" column="0" />
@@ -336,56 +173,24 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" timestamp="1526441225894">
-        <mark key="'" line="50" column="56" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" timestamp="1587555280554">
+        <mark key="'" line="41" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fout/templates/home/nn/.bashrc" timestamp="1530507868195">
-        <mark key="'" line="55" column="0" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/deepctr.py" timestamp="1587541899657">
+        <mark key="'" line="172" column="3" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/data/pctr_pcvr_percentile.t" timestamp="1531205880209">
-        <mark key="'" line="93" column="12" />
+      <file name="/code.py" timestamp="1587604895355">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="8" column="33" />
       </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Mouse.pm" timestamp="1530581795914">
-        <mark key="'" line="34" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CTRFMPrediction.pm" timestamp="1526376796113">
-        <mark key="'" line="44" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1527759348076">
-        <mark key="'" line="5" column="38" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1530672683749">
-        <mark key="'" line="329" column="55" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" timestamp="1527133623952">
-        <mark key="'" line="122" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/entry/TestFeatureExtractionRunner.scala" timestamp="1527731691312">
-        <mark key="'" line="8" column="8" />
-      </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/jupyter-jsI8Kfg8/lib/python3.7/site-packages/functional/streams.py" timestamp="1538534078425">
-        <mark key="'" line="265" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Time/Piece/MySQL.pm" timestamp="1531124086819">
-        <mark key="'" line="134" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureDependencyResolver.scala" timestamp="1528352248788">
-        <mark key="'" line="64" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/monitoring/logic/TestSplitRunSummary.scala" timestamp="1527731329920">
-        <mark key="'" line="100" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" timestamp="1531112096918">
-        <mark key="'" line="178" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction50304.pm" timestamp="1530513933842">
-        <mark key="'" line="17" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
-        <mark key="'" line="38" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1529632402089">
-        <mark key="'" line="28" column="28" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" timestamp="1587545224106">
+        <mark key="'" line="158" column="58" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/criteo.py" timestamp="1587547820467">
         <mark key="'" line="26" column="35" />
@@ -394,20 +199,15 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" timestamp="1527215451892">
-        <mark key="'" line="63" column="11" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587604015915">
+        <mark key="'" line="44" column="39" />
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="38" column="44" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/SSMapping.pm" timestamp="1529035320412">
-        <mark key="'" line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1528170075667">
-        <mark key="'" line="52" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pod" timestamp="1526355165189">
-        <mark key="'" line="98" column="27" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" timestamp="1529574398268">
-        <mark key="'" line="6" column="12" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
+        <mark key="'" line="52" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -512,6 +312,8 @@
       <jump line="187" column="8" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="44" column="39" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
         <keys>
@@ -610,6 +412,8 @@
         <text>w</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</last-search>
       <last-offset />
@@ -619,161 +423,12 @@
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">XDxwcmVkX2Fuc1w+</entry>
-        <entry encoding="base64">XDxzdWJwcm9jZXNzXD4=</entry>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry encoding="base64">XDxGTV9ESVJcPg==</entry>
-        <entry encoding="base64">XDxTQUdFTUFLRVJfT1BUU1w+</entry>
-        <entry encoding="base64">XDxERUZBVUxUX1dPUktfRElSXD4=</entry>
-        <entry encoding="base64">XDxBZGFtXD4=</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDxkbm5fZHJvcG91dFw+</entry>
-        <entry>step</entry>
-        <entry encoding="base64">XDxscl9kZWNheVw+</entry>
-        <entry encoding="base64">XDxzdGVwX2RlY2F5XD4=</entry>
-        <entry encoding="base64">XDxkbm5faGlkZGVuX3VuaXRzXD4=</entry>
-        <entry encoding="base64">XDxlbWJlZGRpbmdfZGltXD4=</entry>
-        <entry encoding="base64">XDxiYXRjaF9zaXplXD4=</entry>
-        <entry encoding="base64">XDxlc1w+</entry>
-        <entry encoding="base64">XDx0Zlw+</entry>
-        <entry encoding="base64">XDxyZWxpbXBsXD4=</entry>
-        <entry encoding="base64">XDx2YWxfYXVjXD4=</entry>
-        <entry encoding="base64">XDxFYXJseVN0b3BwaW5nXD4=</entry>
-        <entry encoding="base64">XDxjYWxsYmFja3NcPg==</entry>
-        <entry encoding="base64">XDxBVUNcPg==</entry>
-        <entry encoding="base64">XDwjXD4=</entry>
-        <entry encoding="base64">XDxyZWxhdGl2ZV9pbXByb3ZlbWVudHNcPg==</entry>
-        <entry encoding="base64">XDw2NDYyMl93ZWJfdHJhaW5fc21hbGxcPg==</entry>
-        <entry encoding="base64">XDx0cmFpbl9wYXRoXD4=</entry>
-        <entry encoding="base64">XDxUUkFJTl9QQVRIXD4=</entry>
-        <entry encoding="base64">XDxURVNUX1BBVEhcPg==</entry>
-        <entry encoding="base64">XDxNT0RFTF9QQVRIXD4=</entry>
-        <entry encoding="base64">XDxpZlw+</entry>
-        <entry encoding="base64">XDxSRVNVTFRfUEFUSFw+</entry>
-        <entry encoding="base64">XDxpbnB1dHNcPg==</entry>
-        <entry encoding="base64">XDxQcmVkaWN0aW9uTGF5ZXJcPg==</entry>
-        <entry encoding="base64">XDxncm91cF9lbWJlZGRpbmdfZGljdFw+</entry>
-        <entry encoding="base64">XDxnZXRfbGluZWFyX2xvZ2l0XD4=</entry>
-        <entry encoding="base64">XDxsaW5lYXJfbG9naXRcPg==</entry>
-        <entry encoding="base64">XDxsMl9yZWdfbGluZWFyXD4=</entry>
-        <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
-        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
-        <entry encoding="base64">XDxfX2FsbF9fXD4=</entry>
-        <entry encoding="base64">XDxpbnB1dF9mcm9tX2ZlYXR1cmVfY29sdW1uc1w+</entry>
-        <entry encoding="base64">XDxzcGFyc2VfZW1iZWRkaW5nX2xpc3RcPg==</entry>
-        <entry>prefix</entry>
-        <entry encoding="base64">XDxzeXNcPg==</entry>
-        <entry encoding="base64">XDxvbGRfaW5wdXRfZnJvbV9mZWF0dXJlX2NvbHVtbnNcPg==</entry>
-        <entry encoding="base64">XDxEZWVwRk1cPg==</entry>
-        <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
-        <entry encoding="base64">XDxzdXBwb3J0X2dyb3VwXD4=</entry>
-        <entry encoding="base64">XDxnXD4=</entry>
-        <entry encoding="base64">XDxwbG90X21vZGVsXD4=</entry>
-        <entry encoding="base64">XDxnZXRfZmVhdHVyZV9uYW1lc1w+</entry>
-        <entry encoding="base64">XDxLXD4=</entry>
-        <entry encoding="base64">XDxlbWJlZGRpbmdfZHJvcG91dFw+</entry>
-        <entry encoding="base64">XDxXT1JLX0RJUlw+</entry>
-        <entry encoding="base64">XDxNT0RFTFw+</entry>
-        <entry encoding="base64">XDxNT0RFTF9OQU1FXD4=</entry>
-        <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
-        <entry encoding="base64">XDxlYXJseV9zdG9wX2VuYWJsZWRcPg==</entry>
-        <entry encoding="base64">XDxlcG9jaHNcPg==</entry>
-        <entry encoding="base64">XDxFUE9DSFNcPg==</entry>
-        <entry encoding="base64">XDxCQVRDSF9TSVpFXD4=</entry>
-        <entry encoding="base64">XDxwYXJhbVw+</entry>
-        <entry encoding="base64">XDxwcHJpbnRcPg==</entry>
-        <entry encoding="base64">XDxNRVRSSUNfS0VZXD4=</entry>
-        <entry encoding="base64">XDxCQVNFTElORV9TQ09SRVNcPg==</entry>
-        <entry encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</entry>
-      </history-search>
-      <history-cmd>
-        <entry>put =range(11,15)</entry>
-        <entry>put a</entry>
-        <entry>put =111</entry>
-        <entry encoding="base64">JzwsJz4gbm9ybWFsIEAx</entry>
-        <entry encoding="base64">JzwsJz5AMQ==</entry>
-        <entry encoding="base64">JzwsJz5ub3JtYWwgQDE=</entry>
-        <entry>put</entry>
-        <entry>help</entry>
-        <entry encoding="base64">JzwsJz5wdXQgMQ==</entry>
-        <entry>r!ls</entry>
-        <entry>r</entry>
-        <entry>normal</entry>
-        <entry>&quot;qp</entry>
-        <entry>%normal @a</entry>
-        <entry encoding="base64">JzwsJz5ub3JtYWw=</entry>
-        <entry>sp</entry>
-        <entry>E</entry>
-        <entry>set paste</entry>
-        <entry>vs</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
