@@ -169,9 +169,6 @@
         <mark key="." line="48" column="40" />
         <mark key="^" line="48" column="46" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training_v2.py" timestamp="1587531779673">
-        <mark key="'" line="4" column="40" />
-      </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
         <mark key="'" line="52" column="23" />
       </file>
