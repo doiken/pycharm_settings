@@ -27,6 +27,7 @@
         <entry encoding="base64">XDxNRVRSSUNfS0VZXD4=</entry>
         <entry encoding="base64">XDxCQVNFTElORV9TQ09SRVNcPg==</entry>
         <entry encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</entry>
+        <entry encoding="base64">XDx0Zlw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
@@ -113,6 +114,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -144,9 +148,6 @@
         <mark key="[" line="280" column="4" />
         <mark key="]" line="280" column="29" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" timestamp="1587545224106">
-        <mark key="'" line="158" column="58" />
-      </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/criteo.py" timestamp="1587547820467">
         <mark key="'" line="26" column="35" />
         <mark key="[" line="2" column="0" />
@@ -161,24 +162,18 @@
         <mark key="[" line="46" column="4" />
         <mark key="]" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587631620925">
-        <mark key="[" line="135" column="37" />
-        <mark key="]" line="135" column="38" />
-        <mark key="." line="135" column="37" />
-        <mark key="^" line="135" column="38" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587633160694">
+        <mark key="'" line="137" column="37" />
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="40" />
+        <mark key="." line="48" column="40" />
+        <mark key="^" line="48" column="46" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training_v2.py" timestamp="1587531779673">
         <mark key="'" line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
         <mark key="'" line="52" column="23" />
-      </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training.py" timestamp="1587466382436">
-        <mark key="'" line="166" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/wdl.py" timestamp="1587555280554">
         <mark key="'" line="41" column="53" />
@@ -210,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="123" column="22" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="194" column="11" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="6" column="10" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="196" column="37" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
@@ -274,7 +267,6 @@
       <jump line="66" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="181" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="68" column="28" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="20" column="22" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="180" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="205" column="3" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
@@ -310,6 +302,9 @@
       <jump line="56" column="1" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="69" column="23" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="57" column="47" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="233" column="29" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="20" column="21" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="136" column="37" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,7 +319,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>embedding_dim</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -339,17 +334,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>embedding_dim</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</text>
+        <text encoding="base64">XDx0Zlw+</text>
       </register>
       <register name="0" type="4">
-        <text>BASELINE_SCORES</text>
+        <text>THREADS_NUM</text>
       </register>
-      <register name="1" type="4">
-        <text>alParameter(True),
-    'beta':  ContinuousParameter(</text>
+      <register name="1" type="2">
+        <text encoding="base64">dGYuY29tcGF0LnYxLmxvZ2dpbmcuc2V0X3ZlcmJvc2l0eSh0Zi5jb21wYXQudjEubG9nZ2luZy5FUlJPUikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,7 +363,17 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+      </register>
+      <register name="3" type="4">
+        <text>alParameter(True),
+    'beta':  ContinuousParameter(</text>
+      </register>
+      <register name="s" type="4">
+        <text />
+      </register>
+      <register name="4" type="4">
         <text>{
     &quot;s&quot;: &quot;5&quot;,            # ffm model
     &quot;p&quot;: &quot;ftrl&quot;,         # optimization method
@@ -383,29 +387,20 @@
     &quot;sigmoid&quot;: &quot;&quot;        # Converting output result to 0 ~ 1[(evaluation)
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">cHByaW50LnBwcmludChwYXJhbSkK</text>
       </register>
-      <register name="s" type="4">
-        <text />
-      </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cHJpbnQgKFNIT1VMRF9FQVJMWV9TVE9QKQpwcmludCAoRVBPQ0hTKQpwcmludCAoQkFUQ0hfU0laRSkKcHJpbnQgKEROTl9ISURERU5fVU5JVFMpCnByaW50IChETk5fRFJPUE9VVCkKcHJpbnQgKEVNQkVERElOR19EUk9QT1VUKQpwcmludCAoRU1CRURESU5HX0RJTSkKcHJpbnQgKE1PREVMX05BTUUpCnByaW50IChERUJVRykK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cHByaW50KHBhcmFtKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aHlwZXJwYXJhbWV0ZXIgPQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">UkVTVUxUX1BBVEggPSBXT1JLX0RJUiArICdyZXN1bHQudHh0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -414,13 +409,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</last-search>
+      <last-search encoding="base64">XDx0Zlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0Zlw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
