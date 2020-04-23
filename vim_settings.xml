@@ -161,12 +161,11 @@
         <mark key="[" line="46" column="4" />
         <mark key="]" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587630834336">
-        <mark key="'" line="55" column="47" />
-        <mark key="[" line="56" column="53" />
-        <mark key="]" line="56" column="54" />
-        <mark key="^" line="56" column="54" />
-        <mark key="." line="56" column="53" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587631620925">
+        <mark key="[" line="135" column="37" />
+        <mark key="]" line="135" column="38" />
+        <mark key="." line="135" column="37" />
+        <mark key="^" line="135" column="38" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/training_v2.py" timestamp="1587531779673">
         <mark key="'" line="4" column="40" />
@@ -325,7 +324,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>num_threads</text>
+        <text>1</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -340,7 +339,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>num_threads</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</text>
@@ -421,7 +420,7 @@
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
