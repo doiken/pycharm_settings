@@ -28,6 +28,8 @@
         <entry encoding="base64">XDxCQVNFTElORV9TQ09SRVNcPg==</entry>
         <entry encoding="base64">XDxETk5fSElEREVOX1VOSVRTXD4=</entry>
         <entry encoding="base64">XDx0Zlw+</entry>
+        <entry encoding="base64">XDxTSE9VTERfRUFSTFlfU1RPUFw+</entry>
+        <entry encoding="base64">XDxyZXN0b3JlX2Jlc3Rfd2VpZ2h0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
@@ -148,6 +150,9 @@
         <mark key="[" line="280" column="4" />
         <mark key="]" line="280" column="29" />
       </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" timestamp="1587696497047">
+        <mark key="'" line="1239" column="16" />
+      </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/criteo.py" timestamp="1587547820467">
         <mark key="'" line="26" column="35" />
         <mark key="[" line="2" column="0" />
@@ -162,13 +167,7 @@
         <mark key="[" line="46" column="4" />
         <mark key="]" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587687062003">
-        <mark key="'" line="48" column="29" />
-        <mark key="[" line="48" column="29" />
-        <mark key="]" line="48" column="40" />
-        <mark key="." line="48" column="40" />
-        <mark key="^" line="48" column="46" />
-      </file>
+      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587696869305" />
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
         <mark key="'" line="52" column="23" />
       </file>
@@ -202,13 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="10" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="196" column="37" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="165" column="11" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="201" column="18" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="203" column="29" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="31" column="22" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="154" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="71" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" />
@@ -275,7 +267,6 @@
       <jump line="35" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="36" column="9" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="37" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
-      <jump line="38" column="19" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="40" column="20" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="41" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="42" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
@@ -302,6 +293,14 @@
       <jump line="20" column="21" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="136" column="37" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="48" column="29" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="38" column="40" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="212" column="28" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="1183" column="15" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
+      <jump line="1192" column="15" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
+      <jump line="1193" column="32" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
+      <jump line="1232" column="14" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
+      <jump line="1160" column="6" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
+      <jump line="1239" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +333,7 @@
         <text>embedding_dim</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0Zlw+</text>
+        <text encoding="base64">XDxyZXN0b3JlX2Jlc3Rfd2VpZ2h0c1w+</text>
       </register>
       <register name="0" type="4">
         <text>THREADS_NUM</text>
@@ -406,9 +405,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0Zlw+</last-search>
+      <last-search encoding="base64">XDxyZXN0b3JlX2Jlc3Rfd2VpZ2h0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0Zlw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXN0b3JlX2Jlc3Rfd2VpZ2h0c1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
