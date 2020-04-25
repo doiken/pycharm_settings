@@ -167,7 +167,9 @@
         <mark key="[" line="46" column="4" />
         <mark key="]" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587696869305" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587726438359">
+        <mark key="'" line="224" column="16" />
+      </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
         <mark key="'" line="52" column="23" />
       </file>
@@ -201,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="71" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" />
       <jump line="14" column="26" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" />
@@ -301,6 +302,7 @@
       <jump line="1232" column="14" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
       <jump line="1160" column="6" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
       <jump line="1239" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
+      <jump line="224" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
