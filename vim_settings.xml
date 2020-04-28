@@ -167,8 +167,12 @@
         <mark key="[" line="46" column="4" />
         <mark key="]" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1587803113029">
-        <mark key="'" line="225" column="16" />
+      <file name="$USER_HOME$/Repositories/deepctr_tut/nn.py" timestamp="1588051482662">
+        <mark key="'" line="34" column="26" />
+        <mark key="[" line="38" column="60" />
+        <mark key="]" line="38" column="61" />
+        <mark key="^" line="38" column="61" />
+        <mark key="." line="38" column="60" />
       </file>
       <file name="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/flen.py" timestamp="1587552357245">
         <mark key="'" line="52" column="23" />
@@ -203,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="13" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/inputs.py" />
       <jump line="14" column="26" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/deepctr/models/deepfm.py" />
       <jump line="55" column="9" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
@@ -303,6 +306,7 @@
       <jump line="1160" column="6" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
       <jump line="1239" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/.venv/lib/python3.7/site-packages/tensorflow_core/python/keras/callbacks.py" />
       <jump line="224" column="16" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
+      <jump line="34" column="26" filename="$USER_HOME$/Repositories/deepctr_tut/nn.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +321,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>embedding_dim</text>
+        <text>True</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -332,7 +336,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>embedding_dim</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN0b3JlX2Jlc3Rfd2VpZ2h0c1w+</text>
